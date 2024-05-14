@@ -1,0 +1,2706 @@
+{
+  "tiltBrushVersion": "0.3.0",
+  "tiltBrushBuildStamp": "",
+  "brushes": {
+    "f72ec0e7-a844-4e38-82e3-140c44772699": {
+      "guid": "f72ec0e7-a844-4e38-82e3-140c44772699",
+      "name": "OilPaint",
+      "folderName": "OilPaint-f72ec0e7-a844-4e38-82e3-140c44772699",
+      "shaderVersion": "10.0",
+      "vertexShader": "OilPaint-f72ec0e7-a844-4e38-82e3-140c44772699-v10.0-vertex.glsl",
+      "fragmentShader": "OilPaint-f72ec0e7-a844-4e38-82e3-140c44772699-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "OilPaint-f72ec0e7-a844-4e38-82e3-140c44772699-v10.0-MainTex.png",
+        "BumpMap": "OilPaint-f72ec0e7-a844-4e38-82e3-140c44772699-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "c515dad7-4393-4681-81ad-162ef052241b": {
+      "guid": "c515dad7-4393-4681-81ad-162ef052241b",
+      "name": "OilPaint",
+      "folderName": "OilPaint-c515dad7-4393-4681-81ad-162ef052241b",
+      "shaderVersion": "10.0",
+      "vertexShader": "OilPaint-c515dad7-4393-4681-81ad-162ef052241b-v10.0-vertex.glsl",
+      "fragmentShader": "OilPaint-c515dad7-4393-4681-81ad-162ef052241b-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "OilPaint-c515dad7-4393-4681-81ad-162ef052241b-v10.0-MainTex.png",
+        "BumpMap": "OilPaint-c515dad7-4393-4681-81ad-162ef052241b-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "f5c336cf-5108-4b40-ade9-c687504385ab": {
+      "guid": "f5c336cf-5108-4b40-ade9-c687504385ab",
+      "name": "Ink",
+      "folderName": "Ink-f5c336cf-5108-4b40-ade9-c687504385ab",
+      "shaderVersion": "10.0",
+      "vertexShader": "Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-vertex.glsl",
+      "fragmentShader": "Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-MainTex.png",
+        "BumpMap": "Ink-f5c336cf-5108-4b40-ade9-c687504385ab-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "c0012095-3ffd-4040-8ee1-fc180d346eaa": {
+      "guid": "c0012095-3ffd-4040-8ee1-fc180d346eaa",
+      "name": "Ink",
+      "folderName": "Ink-c0012095-3ffd-4040-8ee1-fc180d346eaa",
+      "shaderVersion": "10.0",
+      "vertexShader": "Ink-c0012095-3ffd-4040-8ee1-fc180d346eaa-v10.0-vertex.glsl",
+      "fragmentShader": "Ink-c0012095-3ffd-4040-8ee1-fc180d346eaa-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Ink-c0012095-3ffd-4040-8ee1-fc180d346eaa-v10.0-MainTex.png",
+        "BumpMap": "Ink-c0012095-3ffd-4040-8ee1-fc180d346eaa-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "75b32cf0-fdd6-4d89-a64b-e2a00b247b0f": {
+      "guid": "75b32cf0-fdd6-4d89-a64b-e2a00b247b0f",
+      "name": "ThickPaint",
+      "folderName": "ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f",
+      "shaderVersion": "10.0",
+      "vertexShader": "ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-vertex.glsl",
+      "fragmentShader": "ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-MainTex.png",
+        "BumpMap": "ThickPaint-75b32cf0-fdd6-4d89-a64b-e2a00b247b0f-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "fdf0326a-c0d1-4fed-b101-9db0ff6d071f": {
+      "guid": "fdf0326a-c0d1-4fed-b101-9db0ff6d071f",
+      "name": "ThickPaint",
+      "folderName": "ThickPaint-fdf0326a-c0d1-4fed-b101-9db0ff6d071f",
+      "shaderVersion": "10.0",
+      "vertexShader": "ThickPaint-fdf0326a-c0d1-4fed-b101-9db0ff6d071f-v10.0-vertex.glsl",
+      "fragmentShader": "ThickPaint-fdf0326a-c0d1-4fed-b101-9db0ff6d071f-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "ThickPaint-fdf0326a-c0d1-4fed-b101-9db0ff6d071f-v10.0-MainTex.png",
+        "BumpMap": "ThickPaint-fdf0326a-c0d1-4fed-b101-9db0ff6d071f-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "b67c0e81-ce6d-40a8-aeb0-ef036b081aa3": {
+      "guid": "b67c0e81-ce6d-40a8-aeb0-ef036b081aa3",
+      "name": "WetPaint",
+      "folderName": "WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3",
+      "shaderVersion": "10.0",
+      "vertexShader": "WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-vertex.glsl",
+      "fragmentShader": "WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-MainTex.png",
+        "BumpMap": "WetPaint-b67c0e81-ce6d-40a8-aeb0-ef036b081aa3-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.85,
+        "Cutoff": 0.3
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.1397059, 0.1397059, 0.1397059, 0.0 ]
+      }
+    },
+    "dea67637-cd1a-27e4-c9b1-52f4bbcb84e5": {
+      "guid": "dea67637-cd1a-27e4-c9b1-52f4bbcb84e5",
+      "name": "WetPaint",
+      "folderName": "WetPaint-dea67637-cd1a-27e4-c9b1-52f4bbcb84e5",
+      "shaderVersion": "10.0",
+      "vertexShader": "WetPaint-dea67637-cd1a-27e4-c9b1-52f4bbcb84e5-v10.0-vertex.glsl",
+      "fragmentShader": "WetPaint-dea67637-cd1a-27e4-c9b1-52f4bbcb84e5-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "WetPaint-dea67637-cd1a-27e4-c9b1-52f4bbcb84e5-v10.0-MainTex.png",
+        "BumpMap": "WetPaint-dea67637-cd1a-27e4-c9b1-52f4bbcb84e5-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.85,
+        "Cutoff": 0.3
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.1397059, 0.1397059, 0.1397059, 0.0 ]
+      }
+    },
+    "429ed64a-4e97-4466-84d3-145a861ef684": {
+      "guid": "429ed64a-4e97-4466-84d3-145a861ef684",
+      "name": "Marker",
+      "folderName": "Marker-429ed64a-4e97-4466-84d3-145a861ef684",
+      "shaderVersion": "10.0",
+      "vertexShader": "Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-vertex.glsl",
+      "fragmentShader": "Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Marker-429ed64a-4e97-4466-84d3-145a861ef684-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 64.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.067
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "d90c6ad8-af0f-4b54-b422-e0f92abe1b3c": {
+      "guid": "d90c6ad8-af0f-4b54-b422-e0f92abe1b3c",
+      "name": "TaperedMarker",
+      "folderName": "TaperedMarker-d90c6ad8-af0f-4b54-b422-e0f92abe1b3c",
+      "shaderVersion": "10.0",
+      "vertexShader": "TaperedMarker-d90c6ad8-af0f-4b54-b422-e0f92abe1b3c-v10.0-vertex.glsl",
+      "fragmentShader": "TaperedMarker-d90c6ad8-af0f-4b54-b422-e0f92abe1b3c-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "TaperedMarker-d90c6ad8-af0f-4b54-b422-e0f92abe1b3c-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.067
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "1a26b8c0-8a07-4f8a-9fac-d2ef36e0cad0": {
+      "guid": "1a26b8c0-8a07-4f8a-9fac-d2ef36e0cad0",
+      "name": "TaperedMarker_Flat",
+      "folderName": "TaperedMarker_Flat-1a26b8c0-8a07-4f8a-9fac-d2ef36e0cad0",
+      "shaderVersion": "10.0",
+      "vertexShader": "TaperedMarker_Flat-1a26b8c0-8a07-4f8a-9fac-d2ef36e0cad0-v10.0-vertex.glsl",
+      "fragmentShader": "TaperedMarker_Flat-1a26b8c0-8a07-4f8a-9fac-d2ef36e0cad0-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "TaperedMarker_Flat-1a26b8c0-8a07-4f8a-9fac-d2ef36e0cad0-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "0d3889f3-3ede-470c-8af4-de4813306126": {
+      "guid": "0d3889f3-3ede-470c-8af4-de4813306126",
+      "name": "DoubleTaperedMarker",
+      "folderName": "DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126",
+      "shaderVersion": "10.0",
+      "vertexShader": "DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126-v10.0-vertex.glsl",
+      "fragmentShader": "DoubleTaperedMarker-0d3889f3-3ede-470c-8af4-de4813306126-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "cf019139-d41c-4eb0-a1d0-5cf54b0a42f3": {
+      "guid": "cf019139-d41c-4eb0-a1d0-5cf54b0a42f3",
+      "name": "Highlighter",
+      "folderName": "Highlighter-cf019139-d41c-4eb0-a1d0-5cf54b0a42f3",
+      "shaderVersion": "10.0",
+      "vertexShader": "Highlighter-cf019139-d41c-4eb0-a1d0-5cf54b0a42f3-v10.0-vertex.glsl",
+      "fragmentShader": "Highlighter-cf019139-d41c-4eb0-a1d0-5cf54b0a42f3-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Highlighter-cf019139-d41c-4eb0-a1d0-5cf54b0a42f3-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 64.0, 64.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.12
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "2d35bcf0-e4d8-452c-97b1-3311be063130": {
+      "guid": "2d35bcf0-e4d8-452c-97b1-3311be063130",
+      "name": "Flat",
+      "folderName": "Flat-2d35bcf0-e4d8-452c-97b1-3311be063130",
+      "shaderVersion": "10.0",
+      "vertexShader": "Flat-2d35bcf0-e4d8-452c-97b1-3311be063130-v10.0-vertex.glsl",
+      "fragmentShader": "Flat-2d35bcf0-e4d8-452c-97b1-3311be063130-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "280c0a7a-aad8-416c-a7d2-df63d129ca70": {
+      "guid": "280c0a7a-aad8-416c-a7d2-df63d129ca70",
+      "name": "Flat",
+      "folderName": "Flat-280c0a7a-aad8-416c-a7d2-df63d129ca70",
+      "shaderVersion": "10.0",
+      "vertexShader": "Flat-280c0a7a-aad8-416c-a7d2-df63d129ca70-v10.0-vertex.glsl",
+      "fragmentShader": "Flat-280c0a7a-aad8-416c-a7d2-df63d129ca70-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "55303bc4-c749-4a72-98d9-d23e68e76e18": {
+      "guid": "55303bc4-c749-4a72-98d9-d23e68e76e18",
+      "name": "FlatDeprecated",
+      "folderName": "FlatDeprecated-55303bc4-c749-4a72-98d9-d23e68e76e18",
+      "shaderVersion": "10.0",
+      "vertexShader": "FlatDeprecated-55303bc4-c749-4a72-98d9-d23e68e76e18-v10.0-vertex.glsl",
+      "fragmentShader": "FlatDeprecated-55303bc4-c749-4a72-98d9-d23e68e76e18-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "b468c1fb-f254-41ed-8ec9-57030bc5660c": {
+      "guid": "b468c1fb-f254-41ed-8ec9-57030bc5660c",
+      "name": "TaperedFlat",
+      "folderName": "TaperedFlat-b468c1fb-f254-41ed-8ec9-57030bc5660c",
+      "shaderVersion": "10.0",
+      "vertexShader": "TaperedFlat-b468c1fb-f254-41ed-8ec9-57030bc5660c-v10.0-vertex.glsl",
+      "fragmentShader": "TaperedFlat-b468c1fb-f254-41ed-8ec9-57030bc5660c-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "TaperedFlat-b468c1fb-f254-41ed-8ec9-57030bc5660c-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.067
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "c8ccb53d-ae13-45ef-8afb-b730d81394eb": {
+      "guid": "c8ccb53d-ae13-45ef-8afb-b730d81394eb",
+      "name": "TaperedFlat",
+      "folderName": "TaperedFlat-c8ccb53d-ae13-45ef-8afb-b730d81394eb",
+      "shaderVersion": "10.0",
+      "vertexShader": "TaperedFlat-c8ccb53d-ae13-45ef-8afb-b730d81394eb-v10.0-vertex.glsl",
+      "fragmentShader": "TaperedFlat-c8ccb53d-ae13-45ef-8afb-b730d81394eb-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "TaperedFlat-c8ccb53d-ae13-45ef-8afb-b730d81394eb-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.067
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "0d3889f3-3ede-470c-8af4-f44813306126": {
+      "guid": "0d3889f3-3ede-470c-8af4-f44813306126",
+      "name": "DoubleTaperedFlat",
+      "folderName": "DoubleTaperedFlat-0d3889f3-3ede-470c-8af4-f44813306126",
+      "shaderVersion": "10.0",
+      "vertexShader": "DoubleTaperedFlat-0d3889f3-3ede-470c-8af4-f44813306126-v10.0-vertex.glsl",
+      "fragmentShader": "DoubleTaperedFlat-0d3889f3-3ede-470c-8af4-f44813306126-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "accb32f5-4509-454f-93f8-1df3fd31df1b": {
+      "guid": "accb32f5-4509-454f-93f8-1df3fd31df1b",
+      "name": "SoftHighlighter",
+      "folderName": "SoftHighlighter-accb32f5-4509-454f-93f8-1df3fd31df1b",
+      "shaderVersion": "10.0",
+      "vertexShader": "SoftHighlighter-accb32f5-4509-454f-93f8-1df3fd31df1b-v10.0-vertex.glsl",
+      "fragmentShader": "SoftHighlighter-accb32f5-4509-454f-93f8-1df3fd31df1b-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "SoftHighlighter-accb32f5-4509-454f-93f8-1df3fd31df1b-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "2241cd32-8ba2-48a5-9ee7-2caef7e9ed62": {
+      "guid": "2241cd32-8ba2-48a5-9ee7-2caef7e9ed62",
+      "name": "Light",
+      "folderName": "Light-2241cd32-8ba2-48a5-9ee7-2caef7e9ed62",
+      "shaderVersion": "10.0",
+      "vertexShader": "Light-2241cd32-8ba2-48a5-9ee7-2caef7e9ed62-v10.0-vertex.glsl",
+      "fragmentShader": "Light-2241cd32-8ba2-48a5-9ee7-2caef7e9ed62-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Light-2241cd32-8ba2-48a5-9ee7-2caef7e9ed62-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "EmissionGain": 0.45
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "cb92b597-94ca-4255-b017-0e3f42f12f9e": {
+      "guid": "cb92b597-94ca-4255-b017-0e3f42f12f9e",
+      "name": "Fire",
+      "folderName": "Fire-cb92b597-94ca-4255-b017-0e3f42f12f9e",
+      "shaderVersion": "10.0",
+      "vertexShader": "Fire-cb92b597-94ca-4255-b017-0e3f42f12f9e-v10.0-vertex.glsl",
+      "fragmentShader": "Fire-cb92b597-94ca-4255-b017-0e3f42f12f9e-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Fire-cb92b597-94ca-4255-b017-0e3f42f12f9e-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 256.0 ]
+      },
+      "floatParams": {
+        "Scroll1": 20.0,
+        "Scroll2": 0.0,
+        "DisplacementIntensity": 0.1,
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "02ffb866-7fb2-4d15-b761-1012cefb1360": {
+      "guid": "02ffb866-7fb2-4d15-b761-1012cefb1360",
+      "name": "Embers",
+      "folderName": "Embers-02ffb866-7fb2-4d15-b761-1012cefb1360",
+      "shaderVersion": "10.0",
+      "vertexShader": "Embers-02ffb866-7fb2-4d15-b761-1012cefb1360-v10.0-vertex.glsl",
+      "fragmentShader": "Embers-02ffb866-7fb2-4d15-b761-1012cefb1360-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Embers-02ffb866-7fb2-4d15-b761-1012cefb1360-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {
+        "ScrollRate": 0.6,
+        "ScrollJitterIntensity": 0.0300000012,
+        "ScrollJitterFrequency": 5.0,
+        "SpreadRate": 1.539
+      },
+      "vectorParams": {
+        "ScrollDistance": [ 0.2, 0.6, 0.0 ]
+      },
+      "colorParams": {
+        "TintColor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "70d79cca-b159-4f35-990c-f02193947fe8": {
+      "guid": "70d79cca-b159-4f35-990c-f02193947fe8",
+      "name": "Smoke",
+      "folderName": "Smoke-70d79cca-b159-4f35-990c-f02193947fe8",
+      "shaderVersion": "10.0",
+      "vertexShader": "Smoke-70d79cca-b159-4f35-990c-f02193947fe8-v10.0-vertex.glsl",
+      "fragmentShader": "Smoke-70d79cca-b159-4f35-990c-f02193947fe8-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Smoke-70d79cca-b159-4f35-990c-f02193947fe8-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "ScrollRate": 0.75
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "TintColor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "d902ed8b-d0d1-476c-a8de-878a79e3a34c": {
+      "guid": "d902ed8b-d0d1-476c-a8de-878a79e3a34c",
+      "name": "Snow",
+      "folderName": "Snow-d902ed8b-d0d1-476c-a8de-878a79e3a34c",
+      "shaderVersion": "10.0",
+      "vertexShader": "Snow-d902ed8b-d0d1-476c-a8de-878a79e3a34c-v10.0-vertex.glsl",
+      "fragmentShader": "Snow-d902ed8b-d0d1-476c-a8de-878a79e3a34c-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Snow-d902ed8b-d0d1-476c-a8de-878a79e3a34c-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "ScrollRate": 0.2,
+        "ScrollJitterIntensity": 0.0100000007,
+        "ScrollJitterFrequency": 12.0,
+        "SpreadRate": 1.539
+      },
+      "vectorParams": {
+        "ScrollDistance": [ 0.0, -0.3, 0.0 ]
+      },
+      "colorParams": {
+        "TintColor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "ad1ad437-76e2-450d-a23a-e17f8310b960": {
+      "guid": "ad1ad437-76e2-450d-a23a-e17f8310b960",
+      "name": "Rainbow",
+      "folderName": "Rainbow-ad1ad437-76e2-450d-a23a-e17f8310b960",
+      "shaderVersion": "10.0",
+      "vertexShader": "Rainbow-ad1ad437-76e2-450d-a23a-e17f8310b960-v10.0-vertex.glsl",
+      "fragmentShader": "Rainbow-ad1ad437-76e2-450d-a23a-e17f8310b960-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.65
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "0eb4db27-3f82-408d-b5a1-19ebd7d5b711": {
+      "guid": "0eb4db27-3f82-408d-b5a1-19ebd7d5b711",
+      "name": "Stars",
+      "folderName": "Stars-0eb4db27-3f82-408d-b5a1-19ebd7d5b711",
+      "shaderVersion": "10.0",
+      "vertexShader": "Stars-0eb4db27-3f82-408d-b5a1-19ebd7d5b711-v10.0-vertex.glsl",
+      "fragmentShader": "Stars-0eb4db27-3f82-408d-b5a1-19ebd7d5b711-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Stars-0eb4db27-3f82-408d-b5a1-19ebd7d5b711-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "SparkleRate": 5.3,
+        "SpreadRate": 1.539
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "d229d335-c334-495a-a801-660ac8a87360": {
+      "guid": "d229d335-c334-495a-a801-660ac8a87360",
+      "name": "VelvetInk",
+      "folderName": "VelvetInk-d229d335-c334-495a-a801-660ac8a87360",
+      "shaderVersion": "10.0",
+      "vertexShader": "VelvetInk-d229d335-c334-495a-a801-660ac8a87360-v10.0-vertex.glsl",
+      "fragmentShader": "VelvetInk-d229d335-c334-495a-a801-660ac8a87360-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "VelvetInk-d229d335-c334-495a-a801-660ac8a87360-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "10201aa3-ebc2-42d8-84b7-2e63f6eeb8ab": {
+      "guid": "10201aa3-ebc2-42d8-84b7-2e63f6eeb8ab",
+      "name": "Waveform",
+      "folderName": "Waveform-10201aa3-ebc2-42d8-84b7-2e63f6eeb8ab",
+      "shaderVersion": "10.0",
+      "vertexShader": "Waveform-10201aa3-ebc2-42d8-84b7-2e63f6eeb8ab-v10.0-vertex.glsl",
+      "fragmentShader": "Waveform-10201aa3-ebc2-42d8-84b7-2e63f6eeb8ab-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Waveform-10201aa3-ebc2-42d8-84b7-2e63f6eeb8ab-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 64.0, 64.0 ]
+      },
+      "floatParams": {
+        "EmissionGain": 0.517857134
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "8dc4a70c-d558-4efd-a5ed-d4e860f40dc3": {
+      "guid": "8dc4a70c-d558-4efd-a5ed-d4e860f40dc3",
+      "name": "Splatter",
+      "folderName": "Splatter-8dc4a70c-d558-4efd-a5ed-d4e860f40dc3",
+      "shaderVersion": "10.0",
+      "vertexShader": "Splatter-8dc4a70c-d558-4efd-a5ed-d4e860f40dc3-v10.0-vertex.glsl",
+      "fragmentShader": "Splatter-8dc4a70c-d558-4efd-a5ed-d4e860f40dc3-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Splatter-8dc4a70c-d558-4efd-a5ed-d4e860f40dc3-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "7a1c8107-50c5-4b70-9a39-421576d6617e": {
+      "guid": "7a1c8107-50c5-4b70-9a39-421576d6617e",
+      "name": "Splatter",
+      "folderName": "Splatter-7a1c8107-50c5-4b70-9a39-421576d6617e",
+      "shaderVersion": "10.0",
+      "vertexShader": "Splatter-7a1c8107-50c5-4b70-9a39-421576d6617e-v10.0-vertex.glsl",
+      "fragmentShader": "Splatter-7a1c8107-50c5-4b70-9a39-421576d6617e-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Splatter-7a1c8107-50c5-4b70-9a39-421576d6617e-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "d0262945-853c-4481-9cbd-88586bed93cb": {
+      "guid": "d0262945-853c-4481-9cbd-88586bed93cb",
+      "name": "DuctTape",
+      "folderName": "DuctTape-d0262945-853c-4481-9cbd-88586bed93cb",
+      "shaderVersion": "10.0",
+      "vertexShader": "DuctTape-d0262945-853c-4481-9cbd-88586bed93cb-v10.0-vertex.glsl",
+      "fragmentShader": "DuctTape-d0262945-853c-4481-9cbd-88586bed93cb-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "DuctTape-d0262945-853c-4481-9cbd-88586bed93cb-v10.0-MainTex.png",
+        "BumpMap": "DuctTape-d0262945-853c-4481-9cbd-88586bed93cb-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ],
+        "BumpMap": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.414,
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.7058824, 0.7058824, 0.7058824, 1.0 ],
+        "SpecColor": [ 0.5372549, 0.5372549, 0.5372549, 1.0 ]
+      }
+    },
+    "3ca16e2f-bdcd-4da2-8631-dcef342f40f1": {
+      "guid": "3ca16e2f-bdcd-4da2-8631-dcef342f40f1",
+      "name": "DuctTape",
+      "folderName": "DuctTape-3ca16e2f-bdcd-4da2-8631-dcef342f40f1",
+      "shaderVersion": "10.0",
+      "vertexShader": "DuctTape-3ca16e2f-bdcd-4da2-8631-dcef342f40f1-v10.0-vertex.glsl",
+      "fragmentShader": "DuctTape-3ca16e2f-bdcd-4da2-8631-dcef342f40f1-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "DuctTape-3ca16e2f-bdcd-4da2-8631-dcef342f40f1-v10.0-MainTex.png",
+        "BumpMap": "DuctTape-3ca16e2f-bdcd-4da2-8631-dcef342f40f1-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ],
+        "BumpMap": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.414,
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.7058824, 0.7058824, 0.7058824, 1.0 ],
+        "SpecColor": [ 0.5372549, 0.5372549, 0.5372549, 1.0 ]
+      }
+    },
+    "f1114e2e-eb8d-4fde-915a-6e653b54e9f5": {
+      "guid": "f1114e2e-eb8d-4fde-915a-6e653b54e9f5",
+      "name": "Paper",
+      "folderName": "Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5",
+      "shaderVersion": "10.0",
+      "vertexShader": "Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-vertex.glsl",
+      "fragmentShader": "Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-MainTex.png",
+        "BumpMap": "Paper-f1114e2e-eb8d-4fde-915a-6e653b54e9f5-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 1024.0, 128.0 ],
+        "BumpMap": [ 1024.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.145,
+        "Cutoff": 0.16
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.141176477, 0.141176477, 0.141176477, 1.0 ]
+      }
+    },
+    "759f1ebd-20cd-4720-8d41-234e0da63716": {
+      "guid": "759f1ebd-20cd-4720-8d41-234e0da63716",
+      "name": "Paper",
+      "folderName": "Paper-759f1ebd-20cd-4720-8d41-234e0da63716",
+      "shaderVersion": "10.0",
+      "vertexShader": "Paper-759f1ebd-20cd-4720-8d41-234e0da63716-v10.0-vertex.glsl",
+      "fragmentShader": "Paper-759f1ebd-20cd-4720-8d41-234e0da63716-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Paper-759f1ebd-20cd-4720-8d41-234e0da63716-v10.0-MainTex.png",
+        "BumpMap": "Paper-759f1ebd-20cd-4720-8d41-234e0da63716-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 1024.0, 128.0 ],
+        "BumpMap": [ 1024.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.145,
+        "Cutoff": 0.16
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.141176477, 0.141176477, 0.141176477, 1.0 ]
+      }
+    },
+    "1161af82-50cf-47db-9706-0c3576d43c43": {
+      "guid": "1161af82-50cf-47db-9706-0c3576d43c43",
+      "name": "CoarseBristles",
+      "folderName": "CoarseBristles-1161af82-50cf-47db-9706-0c3576d43c43",
+      "shaderVersion": "10.0",
+      "vertexShader": "CoarseBristles-1161af82-50cf-47db-9706-0c3576d43c43-v10.0-vertex.glsl",
+      "fragmentShader": "CoarseBristles-1161af82-50cf-47db-9706-0c3576d43c43-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "CoarseBristles-1161af82-50cf-47db-9706-0c3576d43c43-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.25
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "79168f10-6961-464a-8be1-57ed364c5600": {
+      "guid": "79168f10-6961-464a-8be1-57ed364c5600",
+      "name": "CoarseBristles",
+      "folderName": "CoarseBristles-79168f10-6961-464a-8be1-57ed364c5600",
+      "shaderVersion": "10.0",
+      "vertexShader": "CoarseBristles-79168f10-6961-464a-8be1-57ed364c5600-v10.0-vertex.glsl",
+      "fragmentShader": "CoarseBristles-79168f10-6961-464a-8be1-57ed364c5600-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "CoarseBristles-79168f10-6961-464a-8be1-57ed364c5600-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.25
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "5347acf0-a8e2-47b6-8346-30c70719d763": {
+      "guid": "5347acf0-a8e2-47b6-8346-30c70719d763",
+      "name": "WigglyGraphite",
+      "folderName": "WigglyGraphite-5347acf0-a8e2-47b6-8346-30c70719d763",
+      "shaderVersion": "10.0",
+      "vertexShader": "WigglyGraphite-5347acf0-a8e2-47b6-8346-30c70719d763-v10.0-vertex.glsl",
+      "fragmentShader": "WigglyGraphite-5347acf0-a8e2-47b6-8346-30c70719d763-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "WigglyGraphite-5347acf0-a8e2-47b6-8346-30c70719d763-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "e814fef1-97fd-7194-4a2f-50c2bb918be2": {
+      "guid": "e814fef1-97fd-7194-4a2f-50c2bb918be2",
+      "name": "WigglyGraphite",
+      "folderName": "WigglyGraphite-e814fef1-97fd-7194-4a2f-50c2bb918be2",
+      "shaderVersion": "10.0",
+      "vertexShader": "WigglyGraphite-e814fef1-97fd-7194-4a2f-50c2bb918be2-v10.0-vertex.glsl",
+      "fragmentShader": "WigglyGraphite-e814fef1-97fd-7194-4a2f-50c2bb918be2-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "WigglyGraphite-e814fef1-97fd-7194-4a2f-50c2bb918be2-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "f6e85de3-6dcc-4e7f-87fd-cee8c3d25d51": {
+      "guid": "f6e85de3-6dcc-4e7f-87fd-cee8c3d25d51",
+      "name": "Electricity",
+      "folderName": "Electricity-f6e85de3-6dcc-4e7f-87fd-cee8c3d25d51",
+      "shaderVersion": "10.0",
+      "vertexShader": "Electricity-f6e85de3-6dcc-4e7f-87fd-cee8c3d25d51-v10.0-vertex.glsl",
+      "fragmentShader": "Electricity-f6e85de3-6dcc-4e7f-87fd-cee8c3d25d51-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "DisplacementIntensity": 2.0,
+        "EmissionGain": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "44bb800a-fbc3-4592-8426-94ecb05ddec3": {
+      "guid": "44bb800a-fbc3-4592-8426-94ecb05ddec3",
+      "name": "Streamers",
+      "folderName": "Streamers-44bb800a-fbc3-4592-8426-94ecb05ddec3",
+      "shaderVersion": "10.0",
+      "vertexShader": "Streamers-44bb800a-fbc3-4592-8426-94ecb05ddec3-v10.0-vertex.glsl",
+      "fragmentShader": "Streamers-44bb800a-fbc3-4592-8426-94ecb05ddec3-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Streamers-44bb800a-fbc3-4592-8426-94ecb05ddec3-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 256.0 ]
+      },
+      "floatParams": {
+        "Scroll1": 1.0,
+        "Scroll2": 3.0,
+        "DisplacementIntensity": 0.02,
+        "EmissionGain": 0.4
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "dce872c2-7b49-4684-b59b-c45387949c5c": {
+      "guid": "dce872c2-7b49-4684-b59b-c45387949c5c",
+      "name": "Hypercolor",
+      "folderName": "Hypercolor-dce872c2-7b49-4684-b59b-c45387949c5c",
+      "shaderVersion": "10.0",
+      "vertexShader": "Hypercolor-dce872c2-7b49-4684-b59b-c45387949c5c-v10.0-vertex.glsl",
+      "fragmentShader": "Hypercolor-dce872c2-7b49-4684-b59b-c45387949c5c-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Hypercolor-dce872c2-7b49-4684-b59b-c45387949c5c-v10.0-MainTex.png",
+        "BumpMap": "Hypercolor-dce872c2-7b49-4684-b59b-c45387949c5c-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 128.0 ],
+        "BumpMap": [ 512.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.5,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.274509817, 0.274509817, 0.274509817, 1.0 ]
+      }
+    },
+    "e8ef32b1-baa8-460a-9c2c-9cf8506794f5": {
+      "guid": "e8ef32b1-baa8-460a-9c2c-9cf8506794f5",
+      "name": "Hypercolor",
+      "folderName": "Hypercolor-e8ef32b1-baa8-460a-9c2c-9cf8506794f5",
+      "shaderVersion": "10.0",
+      "vertexShader": "Hypercolor-e8ef32b1-baa8-460a-9c2c-9cf8506794f5-v10.0-vertex.glsl",
+      "fragmentShader": "Hypercolor-e8ef32b1-baa8-460a-9c2c-9cf8506794f5-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Hypercolor-e8ef32b1-baa8-460a-9c2c-9cf8506794f5-v10.0-MainTex.png",
+        "BumpMap": "Hypercolor-e8ef32b1-baa8-460a-9c2c-9cf8506794f5-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 128.0 ],
+        "BumpMap": [ 512.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.5,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.274509817, 0.274509817, 0.274509817, 1.0 ]
+      }
+    },
+    "89d104cd-d012-426b-b5b3-bbaee63ac43c": {
+      "guid": "89d104cd-d012-426b-b5b3-bbaee63ac43c",
+      "name": "Bubbles",
+      "folderName": "Bubbles-89d104cd-d012-426b-b5b3-bbaee63ac43c",
+      "shaderVersion": "10.0",
+      "vertexShader": "Bubbles-89d104cd-d012-426b-b5b3-bbaee63ac43c-v10.0-vertex.glsl",
+      "fragmentShader": "Bubbles-89d104cd-d012-426b-b5b3-bbaee63ac43c-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Bubbles-89d104cd-d012-426b-b5b3-bbaee63ac43c-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "ScrollRate": 0.5,
+        "ScrollJitterIntensity": 0.002,
+        "ScrollJitterFrequency": 0.2,
+        "SpreadRate": 1.539
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "b2ffef01-eaaa-4ab5-aa64-95a2c4f5dbc6": {
+      "guid": "b2ffef01-eaaa-4ab5-aa64-95a2c4f5dbc6",
+      "name": "NeonPulse",
+      "folderName": "NeonPulse-b2ffef01-eaaa-4ab5-aa64-95a2c4f5dbc6",
+      "shaderVersion": "10.0",
+      "vertexShader": "NeonPulse-b2ffef01-eaaa-4ab5-aa64-95a2c4f5dbc6-v10.0-vertex.glsl",
+      "fragmentShader": "NeonPulse-b2ffef01-eaaa-4ab5-aa64-95a2c4f5dbc6-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "700f3aa8-9a7c-2384-8b8a-ea028905dd8c": {
+      "guid": "700f3aa8-9a7c-2384-8b8a-ea028905dd8c",
+      "name": "CelVinyl",
+      "folderName": "CelVinyl-700f3aa8-9a7c-2384-8b8a-ea028905dd8c",
+      "shaderVersion": "10.0",
+      "vertexShader": "CelVinyl-700f3aa8-9a7c-2384-8b8a-ea028905dd8c-v10.0-vertex.glsl",
+      "fragmentShader": "CelVinyl-700f3aa8-9a7c-2384-8b8a-ea028905dd8c-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "CelVinyl-700f3aa8-9a7c-2384-8b8a-ea028905dd8c-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.554
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "6a1cf9f9-032c-45ec-9b6e-a6680bee32e9": {
+      "guid": "6a1cf9f9-032c-45ec-9b6e-a6680bee32e9",
+      "name": "HyperGrid",
+      "folderName": "HyperGrid-6a1cf9f9-032c-45ec-9b6e-a6680bee32e9",
+      "shaderVersion": "10.0",
+      "vertexShader": "HyperGrid-6a1cf9f9-032c-45ec-9b6e-a6680bee32e9-v10.0-vertex.glsl",
+      "fragmentShader": "HyperGrid-6a1cf9f9-032c-45ec-9b6e-a6680bee32e9-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "HyperGrid-6a1cf9f9-032c-45ec-9b6e-a6680bee32e9-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 256.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "TintColor": [ 0.99999994, 0.99999994, 0.99999994, 1.0 ]
+      }
+    },
+    "4391aaaa-df81-4396-9e33-31e4e4930b27": {
+      "guid": "4391aaaa-df81-4396-9e33-31e4e4930b27",
+      "name": "LightWire",
+      "folderName": "LightWire-4391aaaa-df81-4396-9e33-31e4e4930b27",
+      "shaderVersion": "10.0",
+      "vertexShader": "LightWire-4391aaaa-df81-4396-9e33-31e4e4930b27-v10.0-vertex.glsl",
+      "fragmentShader": "LightWire-4391aaaa-df81-4396-9e33-31e4e4930b27-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "LightWire-4391aaaa-df81-4396-9e33-31e4e4930b27-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.81
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.3455882, 0.3455882, 0.3455882, 0.0 ]
+      }
+    },
+    "0f0ff7b2-a677-45eb-a7d6-0cd7206f4816": {
+      "guid": "0f0ff7b2-a677-45eb-a7d6-0cd7206f4816",
+      "name": "ChromaticWave",
+      "folderName": "ChromaticWave-0f0ff7b2-a677-45eb-a7d6-0cd7206f4816",
+      "shaderVersion": "10.0",
+      "vertexShader": "ChromaticWave-0f0ff7b2-a677-45eb-a7d6-0cd7206f4816-v10.0-vertex.glsl",
+      "fragmentShader": "ChromaticWave-0f0ff7b2-a677-45eb-a7d6-0cd7206f4816-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.45
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "6a1cf9f9-032c-45ec-9b1d-a6680bee30f7": {
+      "guid": "6a1cf9f9-032c-45ec-9b1d-a6680bee30f7",
+      "name": "Dots",
+      "folderName": "Dots-6a1cf9f9-032c-45ec-9b1d-a6680bee30f7",
+      "shaderVersion": "10.0",
+      "vertexShader": "Dots-6a1cf9f9-032c-45ec-9b1d-a6680bee30f7-v10.0-vertex.glsl",
+      "fragmentShader": "Dots-6a1cf9f9-032c-45ec-9b1d-a6680bee30f7-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Dots-6a1cf9f9-032c-45ec-9b1d-a6680bee30f7-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "WaveformFreq": 0.1,
+        "BaseGain": 0.4,
+        "EmissionGain": 300.0
+      },
+      "vectorParams": {
+        "WaveformIntensity": [ 0.0, 15.0, 0.0 ]
+      },
+      "colorParams": {
+        "TintColor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "e0abbc80-0f80-e854-4970-8924a0863dcc": {
+      "guid": "e0abbc80-0f80-e854-4970-8924a0863dcc",
+      "name": "Petal",
+      "folderName": "Petal-e0abbc80-0f80-e854-4970-8924a0863dcc",
+      "shaderVersion": "10.0",
+      "vertexShader": "Petal-e0abbc80-0f80-e854-4970-8924a0863dcc-v10.0-vertex.glsl",
+      "fragmentShader": "Petal-e0abbc80-0f80-e854-4970-8924a0863dcc-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.01
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "2f212815-f4d3-c1a4-681a-feeaf9c6dc37": {
+      "guid": "2f212815-f4d3-c1a4-681a-feeaf9c6dc37",
+      "name": "Icing",
+      "folderName": "Icing-2f212815-f4d3-c1a4-681a-feeaf9c6dc37",
+      "shaderVersion": "10.0",
+      "vertexShader": "Icing-2f212815-f4d3-c1a4-681a-feeaf9c6dc37-v10.0-vertex.glsl",
+      "fragmentShader": "Icing-2f212815-f4d3-c1a4-681a-feeaf9c6dc37-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {
+        "BumpMap": "Icing-2f212815-f4d3-c1a4-681a-feeaf9c6dc37-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "BumpMap": [ 1024.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.15,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "4391385a-df73-4396-9e33-31e4e4930b27": {
+      "guid": "4391385a-df73-4396-9e33-31e4e4930b27",
+      "name": "Toon",
+      "folderName": "Toon-4391385a-df73-4396-9e33-31e4e4930b27",
+      "shaderVersion": "10.0",
+      "vertexShader": "Toon-4391385a-df73-4396-9e33-31e4e4930b27-v10.0-vertex.glsl",
+      "fragmentShader": "Toon-4391385a-df73-4396-9e33-31e4e4930b27-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "OutlineMax": 0.005
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "4391385a-cf83-4396-9e33-31e4e4930b27": {
+      "guid": "4391385a-cf83-4396-9e33-31e4e4930b27",
+      "name": "Wire",
+      "folderName": "Wire-4391385a-cf83-4396-9e33-31e4e4930b27",
+      "shaderVersion": "10.0",
+      "vertexShader": "Wire-4391385a-cf83-4396-9e33-31e4e4930b27-v10.0-vertex.glsl",
+      "fragmentShader": "Wire-4391385a-cf83-4396-9e33-31e4e4930b27-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.067
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "cf7f0059-7aeb-53a4-2b67-c83d863a9ffa": {
+      "guid": "cf7f0059-7aeb-53a4-2b67-c83d863a9ffa",
+      "name": "Spikes",
+      "folderName": "Spikes-cf7f0059-7aeb-53a4-2b67-c83d863a9ffa",
+      "shaderVersion": "10.0",
+      "vertexShader": "Spikes-cf7f0059-7aeb-53a4-2b67-c83d863a9ffa-v10.0-vertex.glsl",
+      "fragmentShader": "Spikes-cf7f0059-7aeb-53a4-2b67-c83d863a9ffa-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "d381e0f5-3def-4a0d-8853-31e9200bcbda": {
+      "guid": "d381e0f5-3def-4a0d-8853-31e9200bcbda",
+      "name": "Lofted",
+      "folderName": "Lofted-d381e0f5-3def-4a0d-8853-31e9200bcbda",
+      "shaderVersion": "10.0",
+      "vertexShader": "Lofted-d381e0f5-3def-4a0d-8853-31e9200bcbda-v10.0-vertex.glsl",
+      "fragmentShader": "Lofted-d381e0f5-3def-4a0d-8853-31e9200bcbda-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "4391aaaa-df73-4396-9e33-31e4e4930b27": {
+      "guid": "4391aaaa-df73-4396-9e33-31e4e4930b27",
+      "name": "Disco",
+      "folderName": "Disco-4391aaaa-df73-4396-9e33-31e4e4930b27",
+      "shaderVersion": "10.0",
+      "vertexShader": "Disco-4391aaaa-df73-4396-9e33-31e4e4930b27-v10.0-vertex.glsl",
+      "fragmentShader": "Disco-4391aaaa-df73-4396-9e33-31e4e4930b27-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.65
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.0, 0.0, 0.0, 1.0 ],
+        "SpecColor": [ 0.5147059, 0.5147059, 0.5147059, 0.0 ]
+      }
+    },
+    "1caa6d7d-f015-3f54-3a4b-8b5354d39f81": {
+      "guid": "1caa6d7d-f015-3f54-3a4b-8b5354d39f81",
+      "name": "Comet",
+      "folderName": "Comet-1caa6d7d-f015-3f54-3a4b-8b5354d39f81",
+      "shaderVersion": "10.0",
+      "vertexShader": "Comet-1caa6d7d-f015-3f54-3a4b-8b5354d39f81-v10.0-vertex.glsl",
+      "fragmentShader": "Comet-1caa6d7d-f015-3f54-3a4b-8b5354d39f81-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Comet-1caa6d7d-f015-3f54-3a4b-8b5354d39f81-v10.0-MainTex.png",
+        "AlphaMask": "Comet-1caa6d7d-f015-3f54-3a4b-8b5354d39f81-v10.0-AlphaMask.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 256.0 ],
+        "AlphaMask": [ 64.0, 1.0 ]
+      },
+      "floatParams": {
+        "Speed": 1.0,
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "faaa4d44-fcfb-4177-96be-753ac0421ba3": {
+      "guid": "faaa4d44-fcfb-4177-96be-753ac0421ba3",
+      "name": "ShinyHull",
+      "folderName": "ShinyHull-faaa4d44-fcfb-4177-96be-753ac0421ba3",
+      "shaderVersion": "10.0",
+      "vertexShader": "ShinyHull-faaa4d44-fcfb-4177-96be-753ac0421ba3-v10.0-vertex.glsl",
+      "fragmentShader": "ShinyHull-faaa4d44-fcfb-4177-96be-753ac0421ba3-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.743,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.198529422, 0.198529422, 0.198529422, 0.0 ]
+      }
+    },
+    "79348357-432d-4746-8e29-0e25c112e3aa": {
+      "guid": "79348357-432d-4746-8e29-0e25c112e3aa",
+      "name": "MatteHull",
+      "folderName": "MatteHull-79348357-432d-4746-8e29-0e25c112e3aa",
+      "shaderVersion": "10.0",
+      "vertexShader": "MatteHull-79348357-432d-4746-8e29-0e25c112e3aa-v10.0-vertex.glsl",
+      "fragmentShader": "MatteHull-79348357-432d-4746-8e29-0e25c112e3aa-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "a8fea537-da7c-4d4b-817f-24f074725d6d": {
+      "guid": "a8fea537-da7c-4d4b-817f-24f074725d6d",
+      "name": "UnlitHull",
+      "folderName": "UnlitHull-a8fea537-da7c-4d4b-817f-24f074725d6d",
+      "shaderVersion": "10.0",
+      "vertexShader": "UnlitHull-a8fea537-da7c-4d4b-817f-24f074725d6d-v10.0-vertex.glsl",
+      "fragmentShader": "UnlitHull-a8fea537-da7c-4d4b-817f-24f074725d6d-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "c8313697-2563-47fc-832e-290f4c04b901": {
+      "guid": "c8313697-2563-47fc-832e-290f4c04b901",
+      "name": "DiamondHull",
+      "folderName": "DiamondHull-c8313697-2563-47fc-832e-290f4c04b901",
+      "shaderVersion": "10.0",
+      "vertexShader": "DiamondHull-c8313697-2563-47fc-832e-290f4c04b901-v10.0-vertex.glsl",
+      "fragmentShader": "DiamondHull-c8313697-2563-47fc-832e-290f4c04b901-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "DiamondHull-c8313697-2563-47fc-832e-290f4c04b901-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "ea19de07-d0c0-4484-9198-18489a3c1487": {
+      "guid": "ea19de07-d0c0-4484-9198-18489a3c1487",
+      "name": "Leaves",
+      "folderName": "Leaves-ea19de07-d0c0-4484-9198-18489a3c1487",
+      "shaderVersion": "10.0",
+      "vertexShader": "Leaves-ea19de07-d0c0-4484-9198-18489a3c1487-v10.0-vertex.glsl",
+      "fragmentShader": "Leaves-ea19de07-d0c0-4484-9198-18489a3c1487-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Leaves-ea19de07-d0c0-4484-9198-18489a3c1487-v10.0-MainTex.png",
+        "BumpMap": "Leaves-ea19de07-d0c0-4484-9198-18489a3c1487-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.395,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "d1d991f2-e7a0-4cf1-b328-f57e915e6260": {
+      "guid": "d1d991f2-e7a0-4cf1-b328-f57e915e6260",
+      "name": "DotMarker",
+      "folderName": "DotMarker-d1d991f2-e7a0-4cf1-b328-f57e915e6260",
+      "shaderVersion": "10.0",
+      "vertexShader": "DotMarker-d1d991f2-e7a0-4cf1-b328-f57e915e6260-v10.0-vertex.glsl",
+      "fragmentShader": "DotMarker-d1d991f2-e7a0-4cf1-b328-f57e915e6260-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "DotMarker-d1d991f2-e7a0-4cf1-b328-f57e915e6260-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "c33714d1-b2f9-412e-bd50-1884c9d46336": {
+      "guid": "c33714d1-b2f9-412e-bd50-1884c9d46336",
+      "name": "Plasma",
+      "folderName": "Plasma-c33714d1-b2f9-412e-bd50-1884c9d46336",
+      "shaderVersion": "10.0",
+      "vertexShader": "Plasma-c33714d1-b2f9-412e-bd50-1884c9d46336-v10.0-vertex.glsl",
+      "fragmentShader": "Plasma-c33714d1-b2f9-412e-bd50-1884c9d46336-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Plasma-c33714d1-b2f9-412e-bd50-1884c9d46336-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Scroll1": 20.0,
+        "Scroll2": 50.0,
+        "EmissionScroll1": 15.0,
+        "EmissionScroll2": -10.0,
+        "DisplacementIntensity": 0.2,
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "0077f88c-d93a-42f3-b59b-b31c50cdb414": {
+      "guid": "0077f88c-d93a-42f3-b59b-b31c50cdb414",
+      "name": "Taffy",
+      "folderName": "Taffy-0077f88c-d93a-42f3-b59b-b31c50cdb414",
+      "shaderVersion": "10.0",
+      "vertexShader": "Taffy-0077f88c-d93a-42f3-b59b-b31c50cdb414-v10.0-vertex.glsl",
+      "fragmentShader": "Taffy-0077f88c-d93a-42f3-b59b-b31c50cdb414-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Taffy-0077f88c-d93a-42f3-b59b-b31c50cdb414-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "232998f8-d357-47a2-993a-53415df9be10": {
+      "guid": "232998f8-d357-47a2-993a-53415df9be10",
+      "name": "BlocksGem",
+      "folderName": "BlocksGem-232998f8-d357-47a2-993a-53415df9be10",
+      "shaderVersion": "10.0",
+      "vertexShader": "BlocksGem-232998f8-d357-47a2-993a-53415df9be10-v10.0-vertex.glsl",
+      "fragmentShader": "BlocksGem-232998f8-d357-47a2-993a-53415df9be10-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.9,
+        "RimIntensity": 0.5,
+        "RimPower": 2.0,
+        "Frequency": 2.0,
+        "Jitter": 1.0
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "3d813d82-5839-4450-8ddc-8e889ecd96c7": {
+      "guid": "3d813d82-5839-4450-8ddc-8e889ecd96c7",
+      "name": "BlocksGlass",
+      "folderName": "BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7",
+      "shaderVersion": "10.0",
+      "vertexShader": "BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7-v10.0-vertex.glsl",
+      "fragmentShader": "BlocksGlass-3d813d82-5839-4450-8ddc-8e889ecd96c7-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.8,
+        "RimIntensity": 0.7,
+        "RimPower": 4.0
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "0e87b49c-6546-3a34-3a44-8a556d7d6c3e": {
+      "guid": "0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+      "name": "BlocksBasic",
+      "folderName": "BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e",
+      "shaderVersion": "10.0",
+      "vertexShader": "BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e-v10.0-vertex.glsl",
+      "fragmentShader": "BlocksBasic-0e87b49c-6546-3a34-3a44-8a556d7d6c3e-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.196078435, 0.196078435, 0.196078435, 1.0 ]
+      }
+    },
+    "f86a096c-2f4f-4f9d-ae19-81b99f2944e0": {
+      "guid": "f86a096c-2f4f-4f9d-ae19-81b99f2944e0",
+      "name": "PbrTemplate",
+      "folderName": "PbrTemplate-f86a096c-2f4f-4f9d-ae19-81b99f2944e0",
+      "shaderVersion": "1.0",
+      "vertexShader": "PbrTemplate-f86a096c-2f4f-4f9d-ae19-81b99f2944e0-v1.0-vertex.glsl",
+      "fragmentShader": "PbrTemplate-f86a096c-2f4f-4f9d-ae19-81b99f2944e0-v1.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "MetallicFactor": 1.0,
+        "RoughnessFactor": 1.0
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "BaseColorFactor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "19826f62-42ac-4a9e-8b77-4231fbd0cfbf": {
+      "guid": "19826f62-42ac-4a9e-8b77-4231fbd0cfbf",
+      "name": "PbrTransparentTemplate",
+      "folderName": "PbrTransparentTemplate-19826f62-42ac-4a9e-8b77-4231fbd0cfbf",
+      "shaderVersion": "1.0",
+      "vertexShader": "PbrTransparentTemplate-19826f62-42ac-4a9e-8b77-4231fbd0cfbf-v1.0-vertex.glsl",
+      "fragmentShader": "PbrTransparentTemplate-19826f62-42ac-4a9e-8b77-4231fbd0cfbf-v1.0-fragment.glsl",
+      "blendMode": 3,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "MetallicFactor": 1.0,
+        "RoughnessFactor": 1.0
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "BaseColorFactor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "0ad58bbd-42bc-484e-ad9a-b61036ff4ce7": {
+      "guid": "0ad58bbd-42bc-484e-ad9a-b61036ff4ce7",
+      "name": "EnvironmentDiffuse",
+      "folderName": "EnvironmentDiffuse-0ad58bbd-42bc-484e-ad9a-b61036ff4ce7",
+      "shaderVersion": "1.0",
+      "vertexShader": "EnvironmentDiffuse-0ad58bbd-42bc-484e-ad9a-b61036ff4ce7-v1.0-vertex.glsl",
+      "fragmentShader": "EnvironmentDiffuse-0ad58bbd-42bc-484e-ad9a-b61036ff4ce7-v1.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "d01d9d6c-9a61-4aba-8146-5891fafb013b": {
+      "guid": "d01d9d6c-9a61-4aba-8146-5891fafb013b",
+      "name": "EnvironmentDiffuseLightMap",
+      "folderName": "EnvironmentDiffuseLightMap-d01d9d6c-9a61-4aba-8146-5891fafb013b",
+      "shaderVersion": "1.0",
+      "vertexShader": "EnvironmentDiffuseLightMap-d01d9d6c-9a61-4aba-8146-5891fafb013b-v1.0-vertex.glsl",
+      "fragmentShader": "EnvironmentDiffuseLightMap-d01d9d6c-9a61-4aba-8146-5891fafb013b-v1.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "1b897b7e-9b76-425a-b031-a867c48df409": {
+      "guid": "1b897b7e-9b76-425a-b031-a867c48df409",
+      "name": "Gouache",
+      "folderName": "Gouache-1b897b7e-9b76-425a-b031-a867c48df409",
+      "shaderVersion": "10.0",
+      "vertexShader": "Gouache-1b897b7e-9b76-425a-b031-a867c48df409-v10.0-vertex.glsl",
+      "fragmentShader": "Gouache-1b897b7e-9b76-425a-b031-a867c48df409-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Gouache-1b897b7e-9b76-425a-b031-a867c48df409-v10.0-MainTex.png",
+        "BumpMap": "Gouache-1b897b7e-9b76-425a-b031-a867c48df409-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.01,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "4465b5ef-3605-bec4-2b3e-6b04508ddb6b": {
+      "guid": "4465b5ef-3605-bec4-2b3e-6b04508ddb6b",
+      "name": "Gouache",
+      "folderName": "Gouache-4465b5ef-3605-bec4-2b3e-6b04508ddb6b",
+      "shaderVersion": "10.0",
+      "vertexShader": "Gouache-4465b5ef-3605-bec4-2b3e-6b04508ddb6b-v10.0-vertex.glsl",
+      "fragmentShader": "Gouache-4465b5ef-3605-bec4-2b3e-6b04508ddb6b-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Gouache-4465b5ef-3605-bec4-2b3e-6b04508ddb6b-v10.0-MainTex.png",
+        "BumpMap": "Gouache-4465b5ef-3605-bec4-2b3e-6b04508ddb6b-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.01,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "8e58ceea-7830-49b4-aba9-6215104ab52a": {
+      "guid": "8e58ceea-7830-49b4-aba9-6215104ab52a",
+      "name": "MylarTube",
+      "folderName": "MylarTube-8e58ceea-7830-49b4-aba9-6215104ab52a",
+      "shaderVersion": "10.0",
+      "vertexShader": "MylarTube-8e58ceea-7830-49b4-aba9-6215104ab52a-v10.0-vertex.glsl",
+      "fragmentShader": "MylarTube-8e58ceea-7830-49b4-aba9-6215104ab52a-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "MylarTube-8e58ceea-7830-49b4-aba9-6215104ab52a-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.68,
+        "SqueezeAmount": 0.873
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.0, 0.0, 0.0, 1.0 ],
+        "SpecColor": [ 0.75, 0.75, 0.75, 0.0 ]
+      }
+    },
+    "03a529e1-f519-3dd4-582d-2d5cd92c3f4f": {
+      "guid": "03a529e1-f519-3dd4-582d-2d5cd92c3f4f",
+      "name": "Rain",
+      "folderName": "Rain-03a529e1-f519-3dd4-582d-2d5cd92c3f4f",
+      "shaderVersion": "10.0",
+      "vertexShader": "Rain-03a529e1-f519-3dd4-582d-2d5cd92c3f4f-v10.0-vertex.glsl",
+      "fragmentShader": "Rain-03a529e1-f519-3dd4-582d-2d5cd92c3f4f-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Rain-03a529e1-f519-3dd4-582d-2d5cd92c3f4f-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {
+        "NumSides": 6.0,
+        "Speed": 4.0,
+        "Bulge": 2.25
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "725f4c6a-6427-6524-29ab-da371924adab": {
+      "guid": "725f4c6a-6427-6524-29ab-da371924adab",
+      "name": "DryBrush",
+      "folderName": "DryBrush-725f4c6a-6427-6524-29ab-da371924adab",
+      "shaderVersion": "10.0",
+      "vertexShader": "DryBrush-725f4c6a-6427-6524-29ab-da371924adab-v10.0-vertex.glsl",
+      "fragmentShader": "DryBrush-725f4c6a-6427-6524-29ab-da371924adab-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "DryBrush-725f4c6a-6427-6524-29ab-da371924adab-v10.0-MainTex.png",
+        "BumpMap": "DryBrush-725f4c6a-6427-6524-29ab-da371924adab-v10.0-BumpMap.jpg"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.05,
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "ddda8745-4bb5-ac54-88b6-d1480370583e": {
+      "guid": "ddda8745-4bb5-ac54-88b6-d1480370583e",
+      "name": "LeakyPen",
+      "folderName": "LeakyPen-ddda8745-4bb5-ac54-88b6-d1480370583e",
+      "shaderVersion": "10.0",
+      "vertexShader": "LeakyPen-ddda8745-4bb5-ac54-88b6-d1480370583e-v10.0-vertex.glsl",
+      "fragmentShader": "LeakyPen-ddda8745-4bb5-ac54-88b6-d1480370583e-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "LeakyPen-ddda8745-4bb5-ac54-88b6-d1480370583e-v10.0-MainTex.png",
+        "SecondaryTex": "LeakyPen-ddda8745-4bb5-ac54-88b6-d1480370583e-v10.0-SecondaryTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 64.0 ],
+        "SecondaryTex": [ 512.0, 64.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "50e99447-3861-05f4-697d-a1b96e771b98": {
+      "guid": "50e99447-3861-05f4-697d-a1b96e771b98",
+      "name": "Sparks",
+      "folderName": "Sparks-50e99447-3861-05f4-697d-a1b96e771b98",
+      "shaderVersion": "10.0",
+      "vertexShader": "Sparks-50e99447-3861-05f4-697d-a1b96e771b98-v10.0-vertex.glsl",
+      "fragmentShader": "Sparks-50e99447-3861-05f4-697d-a1b96e771b98-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Sparks-50e99447-3861-05f4-697d-a1b96e771b98-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {
+        "EmissionGain": 0.723,
+        "DisplacementAmount": 1.45,
+        "DisplacementExponent": 2.84,
+        "StretchDistortionExponent": 1.73,
+        "NumSides": 4.0,
+        "Speed": 11.78
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "7136a729-1aab-bd24-f8b2-ca88b6adfb67": {
+      "guid": "7136a729-1aab-bd24-f8b2-ca88b6adfb67",
+      "name": "Wind",
+      "folderName": "Wind-7136a729-1aab-bd24-f8b2-ca88b6adfb67",
+      "shaderVersion": "10.0",
+      "vertexShader": "Wind-7136a729-1aab-bd24-f8b2-ca88b6adfb67-v10.0-vertex.glsl",
+      "fragmentShader": "Wind-7136a729-1aab-bd24-f8b2-ca88b6adfb67-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Wind-7136a729-1aab-bd24-f8b2-ca88b6adfb67-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Speed": 1.0
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "a8147ce1-005e-abe4-88e8-09a1eaadcc89": {
+      "guid": "a8147ce1-005e-abe4-88e8-09a1eaadcc89",
+      "name": "Rising Bubbles",
+      "folderName": "Rising Bubbles-a8147ce1-005e-abe4-88e8-09a1eaadcc89",
+      "shaderVersion": "10.0",
+      "vertexShader": "Rising Bubbles-a8147ce1-005e-abe4-88e8-09a1eaadcc89-v10.0-vertex.glsl",
+      "fragmentShader": "Rising Bubbles-a8147ce1-005e-abe4-88e8-09a1eaadcc89-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Rising Bubbles-a8147ce1-005e-abe4-88e8-09a1eaadcc89-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "ScrollRate": 0.1,
+        "ScrollJitterIntensity": 0.0200000014,
+        "ScrollJitterFrequency": 5.0,
+        "SpreadRate": 1.25
+      },
+      "vectorParams": {
+        "ScrollDistance": [ 0.05, 0.5, 0.0 ]
+      },
+      "colorParams": {
+        "TintColor": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "9568870f-8594-60f4-1b20-dfbc8a5eac0e": {
+      "guid": "9568870f-8594-60f4-1b20-dfbc8a5eac0e",
+      "name": "TaperedWire",
+      "folderName": "TaperedWire-9568870f-8594-60f4-1b20-dfbc8a5eac0e",
+      "shaderVersion": "10.0",
+      "vertexShader": "TaperedWire-9568870f-8594-60f4-1b20-dfbc8a5eac0e-v10.0-vertex.glsl",
+      "fragmentShader": "TaperedWire-9568870f-8594-60f4-1b20-dfbc8a5eac0e-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "TaperedWire-9568870f-8594-60f4-1b20-dfbc8a5eac0e-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 32.0, 32.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.1,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.09558821, 0.09558821, 0.09558821, 0.0 ]
+      }
+    },
+    "2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa": {
+      "guid": "2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa",
+      "name": "SquarePaper",
+      "folderName": "SquarePaper-2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa",
+      "shaderVersion": "10.0",
+      "vertexShader": "SquarePaper-2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa-v10.0-vertex.glsl",
+      "fragmentShader": "SquarePaper-2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "SquarePaper-2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa-v10.0-MainTex.png",
+        "BumpMap": "SquarePaper-2e03b1bf-3ebd-4609-9d7e-f4cafadc4dfa-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 1024.0, 128.0 ],
+        "BumpMap": [ 512.0, 64.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.145,
+        "Cutoff": 0.16
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 1.0 ]
+      }
+    },
+    "39ee7377-7a9e-47a7-a0f8-0c77712f75d3": {
+      "guid": "39ee7377-7a9e-47a7-a0f8-0c77712f75d3",
+      "name": "ThickGeometry",
+      "folderName": "ThickGeometry-39ee7377-7a9e-47a7-a0f8-0c77712f75d3",
+      "shaderVersion": "10.0",
+      "vertexShader": "ThickGeometry-39ee7377-7a9e-47a7-a0f8-0c77712f75d3-v10.0-vertex.glsl",
+      "fragmentShader": "ThickGeometry-39ee7377-7a9e-47a7-a0f8-0c77712f75d3-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "ThickGeometry-39ee7377-7a9e-47a7-a0f8-0c77712f75d3-v10.0-MainTex.png",
+        "BumpMap": "ThickGeometry-39ee7377-7a9e-47a7-a0f8-0c77712f75d3-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ],
+        "BumpMap": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.414,
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.7058824, 0.7058824, 0.7058824, 1.0 ],
+        "SpecColor": [ 0.5372549, 0.5372549, 0.5372549, 1.0 ]
+      }
+    },
+    "2c1a6a63-6552-4d23-86d7-58f6fba8581b": {
+      "guid": "2c1a6a63-6552-4d23-86d7-58f6fba8581b",
+      "name": "Wireframe",
+      "folderName": "Wireframe-2c1a6a63-6552-4d23-86d7-58f6fba8581b",
+      "shaderVersion": "10.0",
+      "vertexShader": "Wireframe-2c1a6a63-6552-4d23-86d7-58f6fba8581b-v10.0-vertex.glsl",
+      "fragmentShader": "Wireframe-2c1a6a63-6552-4d23-86d7-58f6fba8581b-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "61d2ef63-ed60-49b3-85fb-7267b7d234f2": {
+      "guid": "61d2ef63-ed60-49b3-85fb-7267b7d234f2",
+      "name": "CandyCane",
+      "folderName": "CandyCane-61d2ef63-ed60-49b3-85fb-7267b7d234f2",
+      "shaderVersion": "10.0",
+      "vertexShader": "CandyCane-61d2ef63-ed60-49b3-85fb-7267b7d234f2-v10.0-vertex.glsl",
+      "fragmentShader": "CandyCane-61d2ef63-ed60-49b3-85fb-7267b7d234f2-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "20a0bf1a-a96e-44e5-84ac-9823d2d65023": {
+      "guid": "20a0bf1a-a96e-44e5-84ac-9823d2d65023",
+      "name": "HolidayTree",
+      "folderName": "HolidayTree-20a0bf1a-a96e-44e5-84ac-9823d2d65023",
+      "shaderVersion": "10.0",
+      "vertexShader": "HolidayTree-20a0bf1a-a96e-44e5-84ac-9823d2d65023-v10.0-vertex.glsl",
+      "fragmentShader": "HolidayTree-20a0bf1a-a96e-44e5-84ac-9823d2d65023-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "2b65cd94-9259-4f10-99d2-d54b6664ac33": {
+      "guid": "2b65cd94-9259-4f10-99d2-d54b6664ac33",
+      "name": "Snowflake",
+      "folderName": "Snowflake-2b65cd94-9259-4f10-99d2-d54b6664ac33",
+      "shaderVersion": "10.0",
+      "vertexShader": "Snowflake-2b65cd94-9259-4f10-99d2-d54b6664ac33-v10.0-vertex.glsl",
+      "fragmentShader": "Snowflake-2b65cd94-9259-4f10-99d2-d54b6664ac33-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "22d4f434-23e4-49d9-a9bd-05798aa21e58": {
+      "guid": "22d4f434-23e4-49d9-a9bd-05798aa21e58",
+      "name": "Braid3",
+      "folderName": "Braid3-22d4f434-23e4-49d9-a9bd-05798aa21e58",
+      "shaderVersion": "10.0",
+      "vertexShader": "Braid3-22d4f434-23e4-49d9-a9bd-05798aa21e58-v10.0-vertex.glsl",
+      "fragmentShader": "Braid3-22d4f434-23e4-49d9-a9bd-05798aa21e58-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "f28c395c-a57d-464b-8f0b-558c59478fa3": {
+      "guid": "f28c395c-a57d-464b-8f0b-558c59478fa3",
+      "name": "Muscle",
+      "folderName": "Muscle-f28c395c-a57d-464b-8f0b-558c59478fa3",
+      "shaderVersion": "10.0",
+      "vertexShader": "Muscle-f28c395c-a57d-464b-8f0b-558c59478fa3-v10.0-vertex.glsl",
+      "fragmentShader": "Muscle-f28c395c-a57d-464b-8f0b-558c59478fa3-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Muscle-f28c395c-a57d-464b-8f0b-558c59478fa3-v10.0-MainTex.png",
+        "BumpMap": "Muscle-f28c395c-a57d-464b-8f0b-558c59478fa3-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.57,
+        "Cutoff": 0.3
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.08088237, 0.08088237, 0.08088237, 1.0 ]
+      }
+    },
+    "99aafe96-1645-44cd-99bd-979bc6ef37c5": {
+      "guid": "99aafe96-1645-44cd-99bd-979bc6ef37c5",
+      "name": "Guts",
+      "folderName": "Guts-99aafe96-1645-44cd-99bd-979bc6ef37c5",
+      "shaderVersion": "10.0",
+      "vertexShader": "Guts-99aafe96-1645-44cd-99bd-979bc6ef37c5-v10.0-vertex.glsl",
+      "fragmentShader": "Guts-99aafe96-1645-44cd-99bd-979bc6ef37c5-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Guts-99aafe96-1645-44cd-99bd-979bc6ef37c5-v10.0-MainTex.png",
+        "BumpMap": "Guts-99aafe96-1645-44cd-99bd-979bc6ef37c5-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.743,
+        "Cutoff": 0.3
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.237456754, 0.2579406, 0.2647059, 1.0 ]
+      }
+    },
+    "53d753ef-083c-45e1-98e7-4459b4471219": {
+      "guid": "53d753ef-083c-45e1-98e7-4459b4471219",
+      "name": "Fire2",
+      "folderName": "Fire2-53d753ef-083c-45e1-98e7-4459b4471219",
+      "shaderVersion": "10.0",
+      "vertexShader": "Fire2-53d753ef-083c-45e1-98e7-4459b4471219-v10.0-vertex.glsl",
+      "fragmentShader": "Fire2-53d753ef-083c-45e1-98e7-4459b4471219-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Fire2-53d753ef-083c-45e1-98e7-4459b4471219-v10.0-MainTex.png",
+        "DisplaceTex": "Fire2-53d753ef-083c-45e1-98e7-4459b4471219-v10.0-DisplaceTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "DisplaceTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Scroll1": 15.0,
+        "Scroll2": 8.0,
+        "DisplacementIntensity": 0.04,
+        "EmissionGain": 0.405,
+        "FlameFadeMin": 8.53,
+        "FlameFadeMax": 30.0
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "9871385a-df73-4396-9e33-31e4e4930b27": {
+      "guid": "9871385a-df73-4396-9e33-31e4e4930b27",
+      "name": "TubeToonInverted",
+      "folderName": "TubeToonInverted-9871385a-df73-4396-9e33-31e4e4930b27",
+      "shaderVersion": "10.0",
+      "vertexShader": "TubeToonInverted-9871385a-df73-4396-9e33-31e4e4930b27-v10.0-vertex.glsl",
+      "fragmentShader": "TubeToonInverted-9871385a-df73-4396-9e33-31e4e4930b27-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "4391ffaa-df73-4396-9e33-31e4e4930b27": {
+      "guid": "4391ffaa-df73-4396-9e33-31e4e4930b27",
+      "name": "FacetedTube",
+      "folderName": "FacetedTube-4391ffaa-df73-4396-9e33-31e4e4930b27",
+      "shaderVersion": "10.0",
+      "vertexShader": "FacetedTube-4391ffaa-df73-4396-9e33-31e4e4930b27-v10.0-vertex.glsl",
+      "fragmentShader": "FacetedTube-4391ffaa-df73-4396-9e33-31e4e4930b27-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "6a1cf9f9-032c-45ec-9b6e-a6680bee30f7": {
+      "guid": "6a1cf9f9-032c-45ec-9b6e-a6680bee30f7",
+      "name": "WaveformParticles",
+      "folderName": "WaveformParticles-6a1cf9f9-032c-45ec-9b6e-a6680bee30f7",
+      "shaderVersion": "10.0",
+      "vertexShader": "WaveformParticles-6a1cf9f9-032c-45ec-9b6e-a6680bee30f7-v10.0-vertex.glsl",
+      "fragmentShader": "WaveformParticles-6a1cf9f9-032c-45ec-9b6e-a6680bee30f7-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "WaveformParticles-6a1cf9f9-032c-45ec-9b6e-a6680bee30f7-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 256.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "TintColor": [ 0.99999994, 0.99999994, 0.99999994, 1.0 ]
+      }
+    },
+    "eba3f993-f9a1-4d35-b84e-bb08f48981a4": {
+      "guid": "eba3f993-f9a1-4d35-b84e-bb08f48981a4",
+      "name": "BubbleWand",
+      "folderName": "BubbleWand-eba3f993-f9a1-4d35-b84e-bb08f48981a4",
+      "shaderVersion": "10.0",
+      "vertexShader": "BubbleWand-eba3f993-f9a1-4d35-b84e-bb08f48981a4-v10.0-vertex.glsl",
+      "fragmentShader": "BubbleWand-eba3f993-f9a1-4d35-b84e-bb08f48981a4-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "BubbleWand-eba3f993-f9a1-4d35-b84e-bb08f48981a4-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 128.0, 128.0 ]
+      },
+      "floatParams": {
+        "ScrollRate": -0.54,
+        "ScrollJitterIntensity": 0.3,
+        "ScrollJitterFrequency": 1.0
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "6a1cf9f9-032c-45ec-311e-a6680bee32e9": {
+      "guid": "6a1cf9f9-032c-45ec-311e-a6680bee32e9",
+      "name": "DanceFloor",
+      "folderName": "DanceFloor-6a1cf9f9-032c-45ec-311e-a6680bee32e9",
+      "shaderVersion": "10.0",
+      "vertexShader": "DanceFloor-6a1cf9f9-032c-45ec-311e-a6680bee32e9-v10.0-vertex.glsl",
+      "fragmentShader": "DanceFloor-6a1cf9f9-032c-45ec-311e-a6680bee32e9-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "DanceFloor-6a1cf9f9-032c-45ec-311e-a6680bee32e9-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 256.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {
+        "TintColor": [ 0.99999994, 0.99999994, 0.99999994, 1.0 ]
+      }
+    },
+    "0f5820df-cb6b-4a6c-960e-56e4c8000eda": {
+      "guid": "0f5820df-cb6b-4a6c-960e-56e4c8000eda",
+      "name": "WaveformTube",
+      "folderName": "WaveformTube-0f5820df-cb6b-4a6c-960e-56e4c8000eda",
+      "shaderVersion": "10.0",
+      "vertexShader": "WaveformTube-0f5820df-cb6b-4a6c-960e-56e4c8000eda-v10.0-vertex.glsl",
+      "fragmentShader": "WaveformTube-0f5820df-cb6b-4a6c-960e-56e4c8000eda-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "WaveformTube-0f5820df-cb6b-4a6c-960e-56e4c8000eda-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 64.0, 64.0 ]
+      },
+      "floatParams": {
+        "EmissionGain": 0.517857134
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "492b36ff-b337-436a-ba5f-1e87ee86747e": {
+      "guid": "492b36ff-b337-436a-ba5f-1e87ee86747e",
+      "name": "Drafting",
+      "folderName": "Drafting-492b36ff-b337-436a-ba5f-1e87ee86747e",
+      "shaderVersion": "10.0",
+      "vertexShader": "Drafting-492b36ff-b337-436a-ba5f-1e87ee86747e-v10.0-vertex.glsl",
+      "fragmentShader": "Drafting-492b36ff-b337-436a-ba5f-1e87ee86747e-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Drafting-492b36ff-b337-436a-ba5f-1e87ee86747e-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "f0a2298a-be80-432c-9fee-a86dcc06f4f9": {
+      "guid": "f0a2298a-be80-432c-9fee-a86dcc06f4f9",
+      "name": "SingleSided",
+      "folderName": "SingleSided-f0a2298a-be80-432c-9fee-a86dcc06f4f9",
+      "shaderVersion": "10.0",
+      "vertexShader": "SingleSided-f0a2298a-be80-432c-9fee-a86dcc06f4f9-v10.0-vertex.glsl",
+      "fragmentShader": "SingleSided-f0a2298a-be80-432c-9fee-a86dcc06f4f9-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "SingleSided-f0a2298a-be80-432c-9fee-a86dcc06f4f9-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "f4a0550c-332a-4e1a-9793-b71508f4a454": {
+      "guid": "f4a0550c-332a-4e1a-9793-b71508f4a454",
+      "name": "DoubleFlat",
+      "folderName": "DoubleFlat-f4a0550c-332a-4e1a-9793-b71508f4a454",
+      "shaderVersion": "10.0",
+      "vertexShader": "DoubleFlat-f4a0550c-332a-4e1a-9793-b71508f4a454-v10.0-vertex.glsl",
+      "fragmentShader": "DoubleFlat-f4a0550c-332a-4e1a-9793-b71508f4a454-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "DoubleFlat-f4a0550c-332a-4e1a-9793-b71508f4a454-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "c1c9b26d-673a-4dc6-b373-51715654ab96": {
+      "guid": "c1c9b26d-673a-4dc6-b373-51715654ab96",
+      "name": "TubeAdditive",
+      "folderName": "TubeAdditive-c1c9b26d-673a-4dc6-b373-51715654ab96",
+      "shaderVersion": "10.0",
+      "vertexShader": "TubeAdditive-c1c9b26d-673a-4dc6-b373-51715654ab96-v10.0-vertex.glsl",
+      "fragmentShader": "TubeAdditive-c1c9b26d-673a-4dc6-b373-51715654ab96-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "a555b809-2017-46cb-ac26-e63173d8f45e": {
+      "guid": "a555b809-2017-46cb-ac26-e63173d8f45e",
+      "name": "Feather",
+      "folderName": "Feather-a555b809-2017-46cb-ac26-e63173d8f45e",
+      "shaderVersion": "10.0",
+      "vertexShader": "Feather-a555b809-2017-46cb-ac26-e63173d8f45e-v10.0-vertex.glsl",
+      "fragmentShader": "Feather-a555b809-2017-46cb-ac26-e63173d8f45e-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "Feather-a555b809-2017-46cb-ac26-e63173d8f45e-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ]
+      },
+      "floatParams": {},
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "84d5bbb2-6634-8434-f8a7-681b576b4664": {
+      "guid": "84d5bbb2-6634-8434-f8a7-681b576b4664",
+      "name": "DuctTapeGeometry",
+      "folderName": "DuctTapeGeometry-84d5bbb2-6634-8434-f8a7-681b576b4664",
+      "shaderVersion": "10.0",
+      "vertexShader": "DuctTapeGeometry-84d5bbb2-6634-8434-f8a7-681b576b4664-v10.0-vertex.glsl",
+      "fragmentShader": "DuctTapeGeometry-84d5bbb2-6634-8434-f8a7-681b576b4664-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "DuctTapeGeometry-84d5bbb2-6634-8434-f8a7-681b576b4664-v10.0-MainTex.png",
+        "BumpMap": "DuctTapeGeometry-84d5bbb2-6634-8434-f8a7-681b576b4664-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ],
+        "BumpMap": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.414,
+        "Cutoff": 0.2
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.7058824, 0.7058824, 0.7058824, 1.0 ],
+        "SpecColor": [ 0.5372549, 0.5372549, 0.5372549, 1.0 ]
+      }
+    },
+    "3d9755da-56c7-7294-9b1d-5ec349975f52": {
+      "guid": "3d9755da-56c7-7294-9b1d-5ec349975f52",
+      "name": "TaperedHueShift",
+      "folderName": "TaperedHueShift-3d9755da-56c7-7294-9b1d-5ec349975f52",
+      "shaderVersion": "10.0",
+      "vertexShader": "TaperedHueShift-3d9755da-56c7-7294-9b1d-5ec349975f52-v10.0-vertex.glsl",
+      "fragmentShader": "TaperedHueShift-3d9755da-56c7-7294-9b1d-5ec349975f52-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "TaperedHueShift-3d9755da-56c7-7294-9b1d-5ec349975f52-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "1cf94f63-f57a-4a1a-ad14-295af4f5ab5c": {
+      "guid": "1cf94f63-f57a-4a1a-ad14-295af4f5ab5c",
+      "name": "Lacewing",
+      "folderName": "Lacewing-1cf94f63-f57a-4a1a-ad14-295af4f5ab5c",
+      "shaderVersion": "10.0",
+      "vertexShader": "Lacewing-1cf94f63-f57a-4a1a-ad14-295af4f5ab5c-v10.0-vertex.glsl",
+      "fragmentShader": "Lacewing-1cf94f63-f57a-4a1a-ad14-295af4f5ab5c-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Lacewing-1cf94f63-f57a-4a1a-ad14-295af4f5ab5c-v10.0-MainTex.png",
+        "SpecTex": "Lacewing-1cf94f63-f57a-4a1a-ad14-295af4f5ab5c-v10.0-SpecTex.png",
+        "BumpMap": "Lacewing-1cf94f63-f57a-4a1a-ad14-295af4f5ab5c-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 256.0, 128.0 ],
+        "SpecTex": [ 256.0, 128.0 ],
+        "BumpMap": [ 256.0, 128.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.8,
+        "Cutoff": 0.9
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.0, 0.0, 0.0, 1.0 ],
+        "SpecColor": [ 0.147058845, 0.147058845, 0.147058845, 1.0 ]
+      }
+    },
+    "c86c058d-1bda-2e94-08db-f3d6a96ac4a1": {
+      "guid": "c86c058d-1bda-2e94-08db-f3d6a96ac4a1",
+      "name": "Marbled Rainbow",
+      "folderName": "Marbled Rainbow-c86c058d-1bda-2e94-08db-f3d6a96ac4a1",
+      "shaderVersion": "10.0",
+      "vertexShader": "Marbled Rainbow-c86c058d-1bda-2e94-08db-f3d6a96ac4a1-v10.0-vertex.glsl",
+      "fragmentShader": "Marbled Rainbow-c86c058d-1bda-2e94-08db-f3d6a96ac4a1-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Marbled Rainbow-c86c058d-1bda-2e94-08db-f3d6a96ac4a1-v10.0-MainTex.png",
+        "SpecTex": "Marbled Rainbow-c86c058d-1bda-2e94-08db-f3d6a96ac4a1-v10.0-SpecTex.png",
+        "BumpMap": "Marbled Rainbow-c86c058d-1bda-2e94-08db-f3d6a96ac4a1-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ],
+        "SpecTex": [ 512.0, 256.0 ],
+        "BumpMap": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.8,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.0, 0.0, 0.0, 1.0 ],
+        "SpecColor": [ 0.2205882, 0.2205882, 0.2205882, 1.0 ]
+      }
+    },
+    "fde6e778-0f7a-e584-38d6-89d44cee59f6": {
+      "guid": "fde6e778-0f7a-e584-38d6-89d44cee59f6",
+      "name": "Charcoal",
+      "folderName": "Charcoal-fde6e778-0f7a-e584-38d6-89d44cee59f6",
+      "shaderVersion": "10.0",
+      "vertexShader": "Charcoal-fde6e778-0f7a-e584-38d6-89d44cee59f6-v10.0-vertex.glsl",
+      "fragmentShader": "Charcoal-fde6e778-0f7a-e584-38d6-89d44cee59f6-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Charcoal-fde6e778-0f7a-e584-38d6-89d44cee59f6-v10.0-MainTex.png",
+        "BumpMap": "Charcoal-fde6e778-0f7a-e584-38d6-89d44cee59f6-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 256.0 ],
+        "BumpMap": [ 512.0, 256.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.01,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "f8ba3d18-01fc-4d7b-b2d9-b99d10b8e7cf": {
+      "guid": "f8ba3d18-01fc-4d7b-b2d9-b99d10b8e7cf",
+      "name": "KeijiroTube",
+      "folderName": "KeijiroTube-f8ba3d18-01fc-4d7b-b2d9-b99d10b8e7cf",
+      "shaderVersion": "10.0",
+      "vertexShader": "KeijiroTube-f8ba3d18-01fc-4d7b-b2d9-b99d10b8e7cf-v10.0-vertex.glsl",
+      "fragmentShader": "KeijiroTube-f8ba3d18-01fc-4d7b-b2d9-b99d10b8e7cf-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.432
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.0, 0.0, 0.0, 1.0 ],
+        "SpecColor": [ 0.757352948, 0.757352948, 0.757352948, 0.0 ]
+      }
+    },
+    "c5da2e70-a6e4-63a4-898c-5cfedef09c97": {
+      "guid": "c5da2e70-a6e4-63a4-898c-5cfedef09c97",
+      "name": "Lofted (Hue Shift)",
+      "folderName": "Lofted (Hue Shift)-c5da2e70-a6e4-63a4-898c-5cfedef09c97",
+      "shaderVersion": "10.0",
+      "vertexShader": "Lofted (Hue Shift)-c5da2e70-a6e4-63a4-898c-5cfedef09c97-v10.0-vertex.glsl",
+      "fragmentShader": "Lofted (Hue Shift)-c5da2e70-a6e4-63a4-898c-5cfedef09c97-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.4
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 0.0, 0.0, 0.0, 1.0 ],
+        "SpecColor": [ 0.132352948, 0.132352948, 0.132352948, 0.0 ]
+      }
+    },
+    "62fef968-e842-3224-4a0e-1fdb7cfb745c": {
+      "guid": "62fef968-e842-3224-4a0e-1fdb7cfb745c",
+      "name": "Wire (Lit)",
+      "folderName": "Wire (Lit)-62fef968-e842-3224-4a0e-1fdb7cfb745c",
+      "shaderVersion": "10.0",
+      "vertexShader": "Wire (Lit)-62fef968-e842-3224-4a0e-1fdb7cfb745c-v10.0-vertex.glsl",
+      "fragmentShader": "Wire (Lit)-62fef968-e842-3224-4a0e-1fdb7cfb745c-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.078125,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.5, 0.5, 0.5, 0.0 ]
+      }
+    },
+    "d120944d-772f-4062-99c6-46a6f219eeaf": {
+      "guid": "d120944d-772f-4062-99c6-46a6f219eeaf",
+      "name": "WaveformFFT",
+      "folderName": "WaveformFFT-d120944d-772f-4062-99c6-46a6f219eeaf",
+      "shaderVersion": "10.0",
+      "vertexShader": "WaveformFFT-d120944d-772f-4062-99c6-46a6f219eeaf-v10.0-vertex.glsl",
+      "fragmentShader": "WaveformFFT-d120944d-772f-4062-99c6-46a6f219eeaf-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {
+        "MainTex": "WaveformFFT-d120944d-772f-4062-99c6-46a6f219eeaf-v10.0-MainTex.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 64.0, 64.0 ]
+      },
+      "floatParams": {
+        "EmissionGain": 0.517857134
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "d9cc5e99-ace1-4d12-96e0-4a7c18c99cfc": {
+      "guid": "d9cc5e99-ace1-4d12-96e0-4a7c18c99cfc",
+      "name": "Fairy",
+      "folderName": "Fairy-d9cc5e99-ace1-4d12-96e0-4a7c18c99cfc",
+      "shaderVersion": "10.0",
+      "vertexShader": "Fairy-d9cc5e99-ace1-4d12-96e0-4a7c18c99cfc-v10.0-vertex.glsl",
+      "fragmentShader": "Fairy-d9cc5e99-ace1-4d12-96e0-4a7c18c99cfc-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "bdf65db2-1fb7-4202-b5e0-c6b5e3ea851e": {
+      "guid": "bdf65db2-1fb7-4202-b5e0-c6b5e3ea851e",
+      "name": "Space",
+      "folderName": "Space-bdf65db2-1fb7-4202-b5e0-c6b5e3ea851e",
+      "shaderVersion": "10.0",
+      "vertexShader": "Space-bdf65db2-1fb7-4202-b5e0-c6b5e3ea851e-v10.0-vertex.glsl",
+      "fragmentShader": "Space-bdf65db2-1fb7-4202-b5e0-c6b5e3ea851e-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "30cb9af6-be41-4872-8f3e-cbff63fe3db8": {
+      "guid": "30cb9af6-be41-4872-8f3e-cbff63fe3db8",
+      "name": "Digital",
+      "folderName": "Digital-30cb9af6-be41-4872-8f3e-cbff63fe3db8",
+      "shaderVersion": "10.0",
+      "vertexShader": "Digital-30cb9af6-be41-4872-8f3e-cbff63fe3db8-v10.0-vertex.glsl",
+      "fragmentShader": "Digital-30cb9af6-be41-4872-8f3e-cbff63fe3db8-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "abfbb2aa-70b4-4a5c-8126-8eedda2b3628": {
+      "guid": "abfbb2aa-70b4-4a5c-8126-8eedda2b3628",
+      "name": "Race",
+      "folderName": "Race-abfbb2aa-70b4-4a5c-8126-8eedda2b3628",
+      "shaderVersion": "10.0",
+      "vertexShader": "Race-abfbb2aa-70b4-4a5c-8126-8eedda2b3628-v10.0-vertex.glsl",
+      "fragmentShader": "Race-abfbb2aa-70b4-4a5c-8126-8eedda2b3628-v10.0-fragment.glsl",
+      "blendMode": 2,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "EmissionGain": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    },
+    "355b3579-bf1d-4ff5-a200-704437fe684b": {
+      "guid": "355b3579-bf1d-4ff5-a200-704437fe684b",
+      "name": "SmoothHull",
+      "folderName": "SmoothHull-355b3579-bf1d-4ff5-a200-704437fe684b",
+      "shaderVersion": "10.0",
+      "vertexShader": "SmoothHull-355b3579-bf1d-4ff5-a200-704437fe684b-v10.0-vertex.glsl",
+      "fragmentShader": "SmoothHull-355b3579-bf1d-4ff5-a200-704437fe684b-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Shininess": 0.574,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.29411763, 0.29411763, 0.29411763, 0.0 ]
+      }
+    },
+    "7259cce5-41c1-ec74-c885-78af28a31d95": {
+      "guid": "7259cce5-41c1-ec74-c885-78af28a31d95",
+      "name": "Leaves2",
+      "folderName": "Leaves2-7259cce5-41c1-ec74-c885-78af28a31d95",
+      "shaderVersion": "10.0",
+      "vertexShader": "Leaves2-7259cce5-41c1-ec74-c885-78af28a31d95-v10.0-vertex.glsl",
+      "fragmentShader": "Leaves2-7259cce5-41c1-ec74-c885-78af28a31d95-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "Leaves2-7259cce5-41c1-ec74-c885-78af28a31d95-v10.0-MainTex.png",
+        "BumpMap": "Leaves2-7259cce5-41c1-ec74-c885-78af28a31d95-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.395,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.0, 0.0, 0.0, 0.0 ]
+      }
+    },
+    "7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb": {
+      "guid": "7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb",
+      "name": "InkGeometry",
+      "folderName": "InkGeometry-7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb",
+      "shaderVersion": "10.0",
+      "vertexShader": "InkGeometry-7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb-v10.0-vertex.glsl",
+      "fragmentShader": "InkGeometry-7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb-v10.0-fragment.glsl",
+      "blendMode": 1,
+      "enableCull": true,
+      "textures": {
+        "MainTex": "InkGeometry-7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb-v10.0-MainTex.png",
+        "BumpMap": "InkGeometry-7c972c27-d3c2-8af4-7bf8-5d9db8f0b7bb-v10.0-BumpMap.png"
+      },
+      "textureSizes": {
+        "MainTex": [ 512.0, 512.0 ],
+        "BumpMap": [ 512.0, 512.0 ]
+      },
+      "floatParams": {
+        "Shininess": 0.4,
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ],
+        "SpecColor": [ 0.235294119, 0.235294119, 0.235294119, 1.0 ]
+      }
+    },
+    "7ae1f880-a517-44a0-99f9-1cab654498c6": {
+      "guid": "7ae1f880-a517-44a0-99f9-1cab654498c6",
+      "name": "ConcaveHull",
+      "folderName": "ConcaveHull-7ae1f880-a517-44a0-99f9-1cab654498c6",
+      "shaderVersion": "10.0",
+      "vertexShader": "ConcaveHull-7ae1f880-a517-44a0-99f9-1cab654498c6-v10.0-vertex.glsl",
+      "fragmentShader": "ConcaveHull-7ae1f880-a517-44a0-99f9-1cab654498c6-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": false,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Cutoff": 0.5
+      },
+      "vectorParams": {},
+      "colorParams": {
+        "Color": [ 1.0, 1.0, 1.0, 1.0 ]
+      }
+    },
+    "d3f3b18a-da03-f694-b838-28ba8e749a98": {
+      "guid": "d3f3b18a-da03-f694-b838-28ba8e749a98",
+      "name": "3D Printing Brush",
+      "folderName": "3D Printing Brush-d3f3b18a-da03-f694-b838-28ba8e749a98",
+      "shaderVersion": "10.0",
+      "vertexShader": "3D Printing Brush-d3f3b18a-da03-f694-b838-28ba8e749a98-v10.0-vertex.glsl",
+      "fragmentShader": "3D Printing Brush-d3f3b18a-da03-f694-b838-28ba8e749a98-v10.0-fragment.glsl",
+      "blendMode": 0,
+      "enableCull": true,
+      "textures": {},
+      "textureSizes": {},
+      "floatParams": {
+        "Smoothness": 1.0,
+        "Metallic": 0.0
+      },
+      "vectorParams": {},
+      "colorParams": {}
+    }
+  }
+}
