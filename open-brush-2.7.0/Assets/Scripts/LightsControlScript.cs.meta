@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 2b8e34c20fab7443a817841049c33008
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences:
-  - m_LightWidgetPrefab: {instanceID: 0}
-  - m_AmbientLight: {instanceID: 0}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b262bab4243ff71b9150d6647b674ec0c2cb54cd1272f88d18c60f757c0441
+size 317

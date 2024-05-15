@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 0eca91ea617987a4a8b8d03e685fc648
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences:
-  - m_ButtonTexture: {instanceID: 0}
-  - m_ButtonAlertTexture: {instanceID: 0}
-  - m_ToggleOnTexture: {instanceID: 0}
-  - m_LinkedUIObject: {instanceID: 0}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b036f14103f56e9c28ca86468d6e759a2c5c93023a58adf216bd249f221c44c
+size 396

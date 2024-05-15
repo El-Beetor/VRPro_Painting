@@ -1,21 +1,3 @@
-fileFormatVersion: 2
-guid: 8dd5a4947bf9f404b84d809e5e1e5df5
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontNames:
-  - Noto Sans CJK JP
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:df230fa5c0e1c68a781ae307a03f8cd94f3773c4a44becd28a0dac2c9a135183
+size 481
