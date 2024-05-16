@@ -1526,7 +1526,7 @@ static class BuildTiltBrush
         // Add your new scenes in this List for your app.
         // During the build process the Scene List in the Build Settings is ignored.
         // Only the following scenes are included in the build.
-        string[] scenes = { "Assets/Scenes/Loading.unity", "Assets/Scenes/Main.unity" };
+        string[] scenes = { "Assets/Scenes/Loading.unity", "Assets/Scenes/CS190.unity" };
         Note("BuildTiltBrush: Start target:{0} mode:{1} profile:{2} options:{3}",
             target, xrSdk, tiltOptions.AutoProfile,
             // For some reason, "None" comes through as "CompressTextures"
