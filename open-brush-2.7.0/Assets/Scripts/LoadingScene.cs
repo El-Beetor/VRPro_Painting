@@ -86,7 +86,7 @@ namespace TiltBrush
             }
 #endif
 
-            AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("Main");
+            AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("CS190");
             while (!asyncLoad.isDone)
             {
                 UpdateProgress(0, m_SceneLoadRatio, asyncLoad.progress);
