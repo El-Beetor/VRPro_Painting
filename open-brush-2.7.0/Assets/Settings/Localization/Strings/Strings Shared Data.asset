@@ -11,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
   m_Name: Strings Shared Data
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   m_TableCollectionName: Strings
   m_TableCollectionNameGuidString: c84355079ab3f3e4f8f3812258805f86
   m_Entries:
@@ -3293,6 +3293,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 189087250755706880
     m_Key: POPUP_UPLOAD_COMPLETE_MOBILE_DESCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236210349951635456
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236210495917608960
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236211568363393024
+    m_Key: PAINTCHALLENGES_PANEL_EASY_BUTTON_DESCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236211838052945920
+    m_Key: PAINTCHALLENGES_PANEL_MEDIUM_BUTTON_DESCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236211847821479936
+    m_Key: PAINTCHALLENGES_PANEL_HARD_BUTTON_DESCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236212008140361728
+    m_Key: PAINTCHALLENGES_PANEL_DESCRIPTION
     m_Metadata:
       m_Items: []
   m_Metadata:

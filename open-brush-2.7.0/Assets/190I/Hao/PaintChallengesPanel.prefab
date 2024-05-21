@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 11466992}
   - component: {fileID: 114927639651245714}
   m_Layer: 16
-  m_Name: GuideToolsPanel
+  m_Name: PaintChallengesPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -91,19 +91,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7d0b1933e6839443a2050b4306ef453, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PanelType: 18
+  m_PanelType: 6000
   m_Collider: {fileID: 6531806}
   m_Mesh: {fileID: 133116}
   m_Border: {fileID: 23000014277342512}
   m_MeshCollider: {fileID: 6517580}
   m_ParticleBounds: {x: 1.2, y: 1.2, z: 0}
   m_PanelPopUpMap: []
-  m_PanelDescription: GUIDETOOLS_PANEL_DESCRIPTION
+  m_PanelDescription: PAINTCHALLENGES_PANEL_DESCRIPTION
   m_LocalizedPanelDescription:
     m_TableReference:
       m_TableCollectionName: GUID:c84355079ab3f3e4f8f3812258805f86
     m_TableEntryReference:
-      m_KeyId: 7862801433075712
+      m_KeyId: 236212008140361728
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -135,9 +135,9 @@ MonoBehaviour:
   m_InitialSpawnPos: {x: 0, y: 0, z: 0}
   m_InitialSpawnRotEulers: {x: 0, y: 0, z: 0}
   m_WandAttachAngle: 0
-  m_WandAttachYOffset: 0
+  m_WandAttachYOffset: 2
   m_WandAttachHalfHeight: 0.75
-  m_BeginFixed: 0
+  m_BeginFixed: 1
   m_CanBeFixedToWand: 1
   m_CanBeDetachedFromWand: 1
   m_PopUpGazeDuration: 0.2
@@ -337,9 +337,10 @@ GameObject:
   - component: {fileID: 33000010974736674}
   - component: {fileID: 23000013457681844}
   - component: {fileID: 65000012660640078}
-  - component: {fileID: 114000012914224392}
+  - component: {fileID: 4937220296643874321}
+  - component: {fileID: 8840222177825641845}
   m_Layer: 16
-  m_Name: PanelButton_GuideSphere
+  m_Name: PanelButton_Medium
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -423,7 +424,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 0.1}
   m_Center: {x: -0.000000074505806, y: 0.000000022351742, z: 0.01}
---- !u!114 &114000012914224392
+--- !u!114 &4937220296643874321
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -432,17 +433,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1000010407002122}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 483352d8a6ca1b64999b70a7a617fc54, type: 3}
+  m_Script: {fileID: 11500000, guid: 0d210066603036f498ead4a839fbaf6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_DescriptionType: 0
   m_DescriptionYOffset: 0
-  m_DescriptionText: GUIDETOOLS_PANEL_SPHEREGUIDE_BUTTON_DESCRIPTION
+  m_DescriptionText: PAINTCHALLENGES_PANEL_MEDIUM_BUTTON_DESCRIPTION
   m_LocalizedDescription:
     m_TableReference:
       m_TableCollectionName: GUID:c84355079ab3f3e4f8f3812258805f86
     m_TableEntryReference:
-      m_KeyId: 7865139518480384
+      m_KeyId: 236211838052945920
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -459,7 +460,7 @@ MonoBehaviour:
     m_LocalVariables: []
   m_DescriptionActivateSpeed: 12
   m_DescriptionZScale: 1
-  m_ButtonTexture: {fileID: 2800000, guid: 007c1059d8fd84e499d8042ca5ba016f, type: 3}
+  m_ButtonTexture: {fileID: 2800000, guid: d5133db99d7b8724b9a844f44753ee83, type: 3}
   m_AtlasTexture: 1
   m_ToggleButton: 0
   m_LongPressReleaseButton: 0
@@ -469,10 +470,22 @@ MonoBehaviour:
   m_HoverScale: 1.1
   m_HoverBoxColliderGrow: 0.2
   m_AddOverlay: 0
-  m_Type: 2
   references:
     version: 2
     RefIds: []
+--- !u!114 &8840222177825641845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010407002122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723ef6828978e7a49968cff655834d2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventChannel: {fileID: 11400000, guid: aaf214a58815c7347bdf5c04d2a3ad2c, type: 2}
 --- !u!1 &1000011539968446
 GameObject:
   m_ObjectHideFlags: 0
@@ -485,9 +498,10 @@ GameObject:
   - component: {fileID: 33000010139712078}
   - component: {fileID: 23000010490857118}
   - component: {fileID: 65000012882910310}
-  - component: {fileID: 114000010440404048}
+  - component: {fileID: 1416064696163652713}
+  - component: {fileID: 5715464127183654107}
   m_Layer: 16
-  m_Name: PanelButton_GuideCube
+  m_Name: PanelButton_Hard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -571,7 +585,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 0.1}
   m_Center: {x: -0.000000074505806, y: 0.000000022351742, z: 0.01}
---- !u!114 &114000010440404048
+--- !u!114 &1416064696163652713
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -580,17 +594,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1000011539968446}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 483352d8a6ca1b64999b70a7a617fc54, type: 3}
+  m_Script: {fileID: 11500000, guid: 0d210066603036f498ead4a839fbaf6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_DescriptionType: 0
   m_DescriptionYOffset: 0
-  m_DescriptionText: GUIDETOOLS_PANEL_CUBEGUIDE_BUTTON_DESCRIPTION
+  m_DescriptionText: PAINTCHALLENGES_PANEL_HARD_BUTTON_DESCRIPTION
   m_LocalizedDescription:
     m_TableReference:
       m_TableCollectionName: GUID:c84355079ab3f3e4f8f3812258805f86
     m_TableEntryReference:
-      m_KeyId: 7865252521418752
+      m_KeyId: 236211847821479936
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -607,7 +621,7 @@ MonoBehaviour:
     m_LocalVariables: []
   m_DescriptionActivateSpeed: 12
   m_DescriptionZScale: 1
-  m_ButtonTexture: {fileID: 2800000, guid: 5ee3d2fc6f002374eba64243efe2a149, type: 3}
+  m_ButtonTexture: {fileID: 2800000, guid: d5133db99d7b8724b9a844f44753ee83, type: 3}
   m_AtlasTexture: 1
   m_ToggleButton: 0
   m_LongPressReleaseButton: 0
@@ -617,10 +631,22 @@ MonoBehaviour:
   m_HoverScale: 1.1
   m_HoverBoxColliderGrow: 0.2
   m_AddOverlay: 0
-  m_Type: 1
   references:
     version: 2
     RefIds: []
+--- !u!114 &5715464127183654107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011539968446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723ef6828978e7a49968cff655834d2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventChannel: {fileID: 11400000, guid: 5a7c9c0b84a9dd941be18daebafc9d7c, type: 2}
 --- !u!1 &1000011773655602
 GameObject:
   m_ObjectHideFlags: 0
@@ -996,7 +1022,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4000010950163592
 Transform:
   m_ObjectHideFlags: 0
@@ -1172,7 +1198,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4000011754324068
 Transform:
   m_ObjectHideFlags: 0
@@ -1320,7 +1346,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4000012518913856
 Transform:
   m_ObjectHideFlags: 0
@@ -1461,9 +1487,10 @@ GameObject:
   - component: {fileID: 1304738839580606656}
   - component: {fileID: 8912230613168107705}
   - component: {fileID: 5045411833944777428}
-  - component: {fileID: 4909323277910679879}
+  - component: {fileID: 5444398389336568551}
+  - component: {fileID: 5337248744669825364}
   m_Layer: 16
-  m_Name: PanelButton_GuidePlane
+  m_Name: PanelButton_Easy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1547,7 +1574,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 0.1}
   m_Center: {x: -0.000000074505806, y: 0.000000022351742, z: 0.01}
---- !u!114 &4909323277910679879
+--- !u!114 &5444398389336568551
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1556,17 +1583,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 4099382765129129040}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 483352d8a6ca1b64999b70a7a617fc54, type: 3}
+  m_Script: {fileID: 11500000, guid: 0d210066603036f498ead4a839fbaf6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_DescriptionType: 0
   m_DescriptionYOffset: 0
-  m_DescriptionText: GUIDETOOLS_PANEL_PLANEGUIDE_BUTTON_DESCRIPTION
+  m_DescriptionText: PAINTCHALLENGES_PANEL_EASY_BUTTON_DESCRIPTION
   m_LocalizedDescription:
     m_TableReference:
       m_TableCollectionName: GUID:c84355079ab3f3e4f8f3812258805f86
     m_TableEntryReference:
-      m_KeyId: 7865004726132736
+      m_KeyId: 236211568363393024
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -1593,10 +1620,22 @@ MonoBehaviour:
   m_HoverScale: 1.1
   m_HoverBoxColliderGrow: 0.2
   m_AddOverlay: 0
-  m_Type: 0
   references:
     version: 2
     RefIds: []
+--- !u!114 &5337248744669825364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4099382765129129040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 723ef6828978e7a49968cff655834d2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventChannel: {fileID: 11400000, guid: da4006d16ecaebf4fa95fa04be68e023, type: 2}
 --- !u!1 &8457270229420404980
 GameObject:
   m_ObjectHideFlags: 0
@@ -1616,7 +1655,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4258827231057519674
 Transform:
   m_ObjectHideFlags: 0
